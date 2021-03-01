@@ -1,0 +1,40 @@
+addProduct Painting "Noapte instelata" 1660 60.89 "Ariana Grande" tempera 10 2
+addProduct Furniture "Romanian" 1416 40.1 "bed" pine 13 5
+addProduct Jewelry "earrings" 1184 43.44 "copper" false 11 2
+addProduct Jewelry "tiara" 1567 94.2 "gold" true 10 3
+addProduct Painting "Scribul" 1630 45.79 "Max Beckmann" acrylic 14 6
+addProduct Painting "Monalisa" 1528 43.68 "Mickey Mouse" acrylic 12 2
+addProduct Furniture "Exclusive" 1913 0.17 "tv" pine 19 3
+addProduct Jewelry "tiara" 1779 62.91 "copper" false 24 3
+addProduct Furniture "Wow" 1469 14.39 "tv" ash 22 2
+addProduct Jewelry "earrings" 1155 67.49 "copper" false 24 4
+addProduct Jewelry "earrings" 1254 47.77 "silver" false 12 4
+addProduct Jewelry "necklace" 1218 45.77 "silver" true 15 3
+addProduct Jewelry "tiara" 1064 74.42 "steel" true 17 4
+addProduct Jewelry "bracelet" 1238 10.04 "copper" false 12 5
+addProduct Jewelry "ring" 1288 82.29 "silver" true 19 4
+addProduct Painting "Monalisa" 1957 89.03 "Washington Allston" tempera 16 3
+addBrokers 5
+addClient NaturalPerson "Liam Payne" LiamPayne-1014572956@gmail.com 16/09/1970
+addClient LegalPerson "Harry Styles" HarryStyles-255564948@gmail.com SRL 8475.303181646786
+addClient LegalPerson "Liam Swayne" LiamSwayne299074058@gmail.com SA 51900.91865754838
+addClient LegalPerson "Louis Tomlinson" LouisTomlinson-1282766702@gmail.com SA 8697.31898059552
+addClient LegalPerson "Dua Lipa" DuaLipa-577186429@gmail.com SRL 87949.33509158193
+addClient LegalPerson "Albert Beto" AlbertBeto-1123375526@gmail.com SRL 11986.297123697024
+listProducts 1
+addProduct Painting "Hairbrush" 1707 1.63 "Alessandro Allori" oil 12 2
+addProduct Painting "Luke Skywalker" 1349 21.47 "Anakin Skywalker" tempera 11 3
+addProduct Painting "Dancers" 1275 65.55 "Alessandro Allori" tempera 10 4
+addProduct Painting "Starry Night" 1846 11.06 "Josef Albers" acrylic 13 2
+requestSignUpForAuction 2 17 50.00
+requestSignUpForAuction 3 17 55.00
+requestSignUpForAuction 1 9 120.00
+addProduct Painting "Carul cu boi" 1944 18.44 "Washington Allston" oil 9 4
+addProduct Painting "Vacanta mare" 1289 77.81 "Stefan Luchian" acrylic 11 4
+requestSignUpForAuction 2 1 90.00
+requestSignUpForAuction 3 1 99.00
+addProduct Furniture "Such Wow Desk" 1072 93.88 "desk" oak 30 3
+addProduct Jewelry "earrings" 1387 54.4 "copper" true 6 9
+requestSignUpForAuction 1 6 150.00
+requestSignUpForAuction 5 9 135.00
+requestSignUpForAuction 3 6 160.00

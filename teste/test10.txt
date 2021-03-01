@@ -1,0 +1,45 @@
+addProduct Painting "Floarea soarelui" 1197 34.26 "Corneliu Baba" acrylic 13 2
+addProduct Furniture "Wow" 1724 33.93 "wardrobe" ash 7 2
+addProduct Furniture "French style" 1281 96.36 "wardrobe" ash 11 2
+addProduct Painting "Disney World" 1082 14.83 "Fallon Carrington" oil 10 4
+addProduct Furniture "Exclusive" 1964 42.07 "table" mahogany 12 4
+addProduct Painting "Vrajitoarea" 1252 24.78 "Fallon Carrington" acrylic 5 3
+addProduct Jewelry "Unique tiara" 1118 77.97 "gold" false 12 3
+addProduct Furniture "Mio Bedroom" 2001 1000.00 bed oak 10 4
+addProduct Painting "Vrajitoarea" 1247 96.71 "Ariana Grande" tempera 19 6
+addProduct Furniture "Chill" 1684 52.45 "desk" cherry 18 2
+addProduct Painting "Scribul" 1712 89.91 "Andreea Blaga" oil 10 2
+addProduct Painting "Ion" 1209 29.42 "Fallon Carrington" tempera 12 3
+addBrokers 15
+addProduct Jewelry "necklace" 1711 52.19 "steel" false 11 6
+addProduct Painting "Me Gusta" 1987 90.09 "Washington Allston" tempera 10 6
+addClient NaturalPerson "Gigi Hadid" GigiHadid398748873@gmail.com 21/01/1974
+addClient LegalPerson "Ioana Dumitrescu" MariaIoana-1656233054@gmail.com SA 80329.17
+listProducts 1
+addProduct Painting "Shakira" 1993 33.62 "Mickey Mouse" acrylic 12 2
+addProduct Painting "Korean Girl" 1407 9.24 "Velasquez" tempera 3 9
+addProduct Painting "Star Wars" 1606 54.74 "Washington Allston" acrylic 17 4
+addClient NaturalPerson "Neil Armstrong" NeilArmstrong1355766260@gmail.com 26/08/1971
+addClient LegalPerson "Scarlet Ohara" ScarletO222867155@gmail.com SRL 27903.6916448932
+addClient NaturalPerson "Harriet Stylynson" Harrietta-161663073@gmail.com 08/07/1973
+requestSignUpForAuction 1 12 178.00
+requestSignUpForAuction 2 12 133.00
+requestSignUpForAuction 3 1 154.00
+addClient LegalPerson "Liam Swayne" LiamSwayne299074058@gmail.com SA 51900.91865754838
+addClient LegalPerson "Louis Tomlinson" LouisTomlinson-1282766702@gmail.com SA 8697.31898059
+addClient NaturalPerson "Bethany Mota" BethanyMota1816784754@gmail.com 25/10/1972
+addProduct Furniture "Chill" 1684 52.45 "desk" cherry 18 2
+addProduct Painting "Scribul" 1712 89.91 "Andreea Blaga" oil 19 3
+addProduct Jewelry "necklace" 1977 43.24 "silver" false 21 3
+addProduct Painting "Carul cu boi" 1324 64.64 "Vincent Van Gogh" oil 4 3
+addProduct Furniture "Wow" 1409 27.85 "table" birch 4 2
+addClient LegalPerson "Albert Masca" AlbertMasca675613521@gmail.com SA 68901.69
+addClient NaturalPerson "Louis Tomlinson" LouisTomlinson209921823@gmail.com 08/06/1973
+requestSignUpForAuction 4 1 156.00
+requestSignUpForAuction 5 2 177.99
+requestSignUpForAuction 6 6 165.00
+requestSignUpForAuction 7 3 143.00
+requestSignUpForAuction 7 5 123.00
+requestSignUpForAuction 4 12 165.00
+requestSignUpForAuction 5 2 177.98
+requestSignUpForAuction 6 3 142.00

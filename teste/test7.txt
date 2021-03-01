@@ -1,0 +1,39 @@
+addBrokers 22
+addProduct Furniture "Limited Edition" 1542 79.94 "table" maple 5 3
+addProduct Jewelry "necklace" 1693 9.49 "gold" true 9 3
+addProduct Jewelry "necklace" 1446 30.97 "gold" false 2 2
+addProduct Furniture "Limited Edition" 1027 44.31 "bed" cherry 7 4
+addProduct Painting "Ghicitoarea" 1083 10.77 "Anakin Skywalker" oil 6 3
+addProduct Painting "Vizita" 1513 16.78 "Horia Bernea" oil 5 2
+addProduct Painting "Fata cu cercel de perla" 1205 2.68 "Washington Allston" oil 11 2
+addProduct Furniture "Rare" 1869 56.15 "desk" mahogany 21 10
+addProduct Jewelry "tiara" 1957 26.78 "copper" true 11 5
+addProduct Jewelry "tiara" 1576 43.69 "silver" true 12 3
+addProduct Furniture "Such Wow Desk" 1072 93.88 "desk" oak 30 3
+addProduct Jewelry "earrings" 1387 54.4 "copper" true 6 9
+addProduct Painting "Hairbrush" 1707 1.63 "Alessandro Allori" oil 12 2
+addProduct Painting "Luke Skywalker" 1349 21.47 "Anakin Skywalker" tempera 11 3
+addProduct Painting "Dancers" 1275 65.55 "Alessandro Allori" tempera 10 4
+addProduct Painting "Starry Night" 1846 11.06 "Josef Albers" acrylic 13 2
+addProduct Furniture "Unique" 1756 71.72 "table" bamboo 19 20
+addProduct Jewelry "necklace" 1868 75.63 "silver" false 16 10
+addProduct Painting "Carul cu boi" 1944 18.44 "Washington Allston" oil 9 4
+addProduct Painting "Vacanta mare" 1289 77.81 "Stefan Luchian" acrylic 11 4
+addProduct Painting "Ion" 1209 29.42 "Fallon Carrington" tempera 12 4
+addClient NaturalPerson "Dinero Tengo" dineroTango-1014572956@gmail.com 16/09/1970
+requestSignUpForAuction 1 1 199.00
+addClient LegalPerson "Mara AD" MaraAD-255564948@gmail.com SRL 8475.303181646786
+requestSignUpForAuction 2 1 197.00
+addClient LegalPerson "Lian Spayne" LianSpayne299074058@gmail.com SA 51900.91865754838
+requestSignUpForAuction 3 1 190.00
+addClient LegalPerson "Louis Tomlinson" LouisTomlinson-1282766702@gmail.com SA 8697.31898059552
+addClient NaturalPerson "Fallon Carrington" FallonCarrington-931322090@gmail.com 08/01/1970
+addClient LegalPerson "Liam Payne" LiamPayne-757512257@gmail.com SA 31162.083220587007
+listProducts 4
+requestSignUpForAuction 4 2 139.00
+requestSignUpForAuction 3 2 140.00
+requestSignUpForAuction 1 7 180.00
+requestSignUpForAuction 5 6 190.00
+requestSignUpForAuction 3 6 210.00
+requestSignUpForAuction 3 7 240.00
+requestSignUpForAuction 1 2 150.00

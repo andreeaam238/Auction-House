@@ -1,0 +1,328 @@
+Welcome to the Online Auction House!
+The admin has connected.
+20 new brokers have been employed by the auction house.
+Louis Tomlinson has joined the online auction system with the client ID 1.
+The product bracelet with the ID 1 can be bought in the auction with the ID 1.
+The product necklace with the ID 2 can be bought in the auction with the ID 2.
+The product Wow bracelet with the ID 3 can be bought in the auction with the ID 3.
+The product tiara with the ID 4 can be bought in the auction with the ID 4.
+Carlotta Adams has joined the online auction system with the client ID 2.
+Bethany Mota has joined the online auction system with the client ID 3.
+Gigi Hadid has joined the online auction system with the client ID 4.
+Ioana Dumitrescu has joined the online auction system with the client ID 5.
+Request for listing the products available for sale from the client Louis Tomlinson with the ID 1:
+The jewelry bracelet with gemstone and and with ID 1 is made of silver in 1881 and has the minimum selling price 47.27.
+The jewelry necklace without gemstone and with the ID 2, is made of steel in 1845 and has the minimum selling price 16.93.
+The jewelry Wow bracelet without gemstone and with the ID 3, is made of silver in 1359 and has the minimum selling price 16.1.
+The jewelry tiara without gemstone and with the ID 4, is made of gold in 1228 and has the minimum selling price 1.01.
+The product The Witcher with the ID 5 can be bought in the auction with the ID 5.
+The product Sacred with the ID 6 can be bought in the auction with the ID 6.
+The product Unique Place for Clothes with the ID 7 can be bought in the auction with the ID 7.
+The product French style with the ID 8 can be bought in the auction with the ID 8.
+The product Wow with the ID 9 can be bought in the auction with the ID 9.
+The product Me Gusta Sleep with the ID 10 can be bought in the auction with the ID 10.
+Request for listing the products available for sale from the client Bethany Mota with the ID 3:
+The jewelry bracelet with gemstone and and with ID 1 is made of silver in 1881 and has the minimum selling price 47.27.
+The jewelry necklace without gemstone and with the ID 2, is made of steel in 1845 and has the minimum selling price 16.93.
+The jewelry Wow bracelet without gemstone and with the ID 3, is made of silver in 1359 and has the minimum selling price 16.1.
+The jewelry tiara without gemstone and with the ID 4, is made of gold in 1228 and has the minimum selling price 1.01.
+The painting The Witcher with the ID 5 was painted by Yoh Asakura with tempera in 1752 and has the minimum selling price 29.41.
+The painting Sacred with the ID 6 was painted by Alessandro Allori with acrylic in 1579 and has the minimum selling price 30.6.
+The furniture Unique Place for Clothes with the ID 7 is a/an wardrobe made of pine in 1145 and has the minimum selling price 71.66.
+The furniture French style with the ID 8 is a/an bathtub made of walnut in 1646 and has the minimum selling price 11.41.
+The furniture Wow with the ID 9 is a/an chair made of maple in 1205 and has the minimum selling price 96.35.
+The furniture Me Gusta Sleep with the ID 10 is a/an bed made of oak in 2001 and has the minimum selling price 100.0.
+The product Exclusive with the ID 11 can be bought in the auction with the ID 11.
+The product Black Night with the ID 12 can be bought in the auction with the ID 12.
+Louis Tomlinson has signed up for the auction of the product Wow.
+1/2 people have signed up for the auction of the product Wow.
+Bethany Mota has signed up for the auction of the product Wow.
+2/2 people have signed up for the auction of the product Wow.
+The auction for the product Wow will start now.
+The starting price for the product Wow is 9.0.
+Louis Tomlinson has offered 62.0 at the set 1 of the auction.
+Bethany Mota has offered 48.0 at the set 1 of the auction.
+The product Wow has, at the end of step 1 of the auction, the price 62.0.
+Louis Tomlinson has offered 62.0 at the set 2 of the auction.
+Bethany Mota has offered 183.0 at the set 2 of the auction.
+The product Wow has, at the end of step 2 of the auction, the price 183.0.
+Louis Tomlinson has offered 190.0 at the set 3 of the auction.
+Bethany Mota has offered 183.0 at the set 3 of the auction.
+The product Wow has, at the end of step 3 of the auction, the price 190.0.
+Louis Tomlinson has offered 190.0 at the set 4 of the auction.
+Bethany Mota has offered 202.0 at the set 4 of the auction.
+The product Wow has, at the end of step 4 of the auction, the price 202.0.
+Louis Tomlinson has offered 190.0 at the set 5 of the auction.
+Bethany Mota has offered 202.0 at the set 5 of the auction.
+The product Wow has, at the end of step 5 of the auction, the price 202.0.
+Louis Tomlinson has offered 190.0 at the set 6 of the auction.
+Bethany Mota has offered 202.0 at the set 6 of the auction.
+The product Wow has, at the end of step 6 of the auction, the price 202.0.
+Louis Tomlinson has offered 190.0 at the set 7 of the auction.
+Bethany Mota has offered 202.0 at the set 7 of the auction.
+The product Wow has, at the end of step 7 of the auction, the price 202.0.
+Louis Tomlinson has offered 190.0 at the set 8 of the auction.
+Bethany Mota has offered 202.0 at the set 8 of the auction.
+The product Wow has, at the end of step 8 of the auction, the price 202.0.
+Louis Tomlinson has offered 190.0 at the set 9 of the auction.
+Bethany Mota has offered 202.0 at the set 9 of the auction.
+The product Wow has, at the end of step 9 of the auction, the price 202.0.
+Louis Tomlinson has offered 190.0 at the set 10 of the auction.
+Bethany Mota has offered 202.0 at the set 10 of the auction.
+The product Wow has, at the end of step 10 of the auction, the price 202.0.
+Louis Tomlinson has offered 190.0 at the set 11 of the auction.
+Bethany Mota has offered 202.0 at the set 11 of the auction.
+The product Wow has, at the end of step 11 of the auction, the price 202.0.
+Louis Tomlinson has offered 190.0 at the set 12 of the auction.
+Bethany Mota has offered 202.0 at the set 12 of the auction.
+The product Wow has, at the end of step 12 of the auction, the price 202.0.
+The product Wow has been sold for 202.0.
+The product Yaman with the ID 13 can be bought in the auction with the ID 13.
+Louis Tomlinson has signed up for the auction of the product Me Gusta Sleep.
+1/4 people have signed up for the auction of the product Me Gusta Sleep.
+Carlotta Adams has signed up for the auction of the product Unique Place for Clothes.
+1/5 people have signed up for the auction of the product Unique Place for Clothes.
+The product Wow with the ID 14 can be bought in the auction with the ID 14.
+The product earrings with the ID 15 can be bought in the auction with the ID 15.
+Bethany Mota has signed up for the auction of the product Me Gusta Sleep.
+2/4 people have signed up for the auction of the product Me Gusta Sleep.
+Louis Tomlinson has signed up for the auction of the product tiara.
+1/3 people have signed up for the auction of the product tiara.
+Ioana Dumitrescu has signed up for the auction of the product Me Gusta Sleep.
+3/4 people have signed up for the auction of the product Me Gusta Sleep.
+The product SummerTime with the ID 16 can be bought in the auction with the ID 16.
+The product Far Cry with the ID 17 can be bought in the auction with the ID 17.
+Bethany Mota has signed up for the auction of the product Unique Place for Clothes.
+2/5 people have signed up for the auction of the product Unique Place for Clothes.
+The product Pandora Ring with the ID 18 can be bought in the auction with the ID 18.
+Louis Tomlinson has signed up for the auction of the product Unique Place for Clothes.
+3/5 people have signed up for the auction of the product Unique Place for Clothes.
+Bethany Mota has signed up for the auction of the product Wow bracelet.
+1/3 people have signed up for the auction of the product Wow bracelet.
+The product Limited Edition Chair with the ID 19 can be bought in the auction with the ID 19.
+The product Limited Edition Bed with the ID 20 can be bought in the auction with the ID 20.
+Bethany Mota has signed up for the auction of the product tiara.
+2/3 people have signed up for the auction of the product tiara.
+Gigi Hadid has signed up for the auction of the product Unique Place for Clothes.
+4/5 people have signed up for the auction of the product Unique Place for Clothes.
+Gigi Hadid has signed up for the auction of the product Wow bracelet.
+2/3 people have signed up for the auction of the product Wow bracelet.
+Carlotta Adams has signed up for the auction of the product Unique Place for Clothes.
+5/5 people have signed up for the auction of the product Unique Place for Clothes.
+The auction for the product Unique Place for Clothes will start now.
+The starting price for the product Unique Place for Clothes is 3.0.
+Carlotta Adams has offered 4.0 at the set 1 of the auction.
+Bethany Mota has offered 51.0 at the set 1 of the auction.
+Louis Tomlinson has offered 142.0 at the set 1 of the auction.
+Gigi Hadid has offered 634.0 at the set 1 of the auction.
+Carlotta Adams has offered 511.0 at the set 1 of the auction.
+The product Unique Place for Clothes has, at the end of step 1 of the auction, the price 634.0.
+Carlotta Adams has offered 4.0 at the set 2 of the auction.
+Bethany Mota has offered 51.0 at the set 2 of the auction.
+Louis Tomlinson has offered 142.0 at the set 2 of the auction.
+Gigi Hadid has offered 634.0 at the set 2 of the auction.
+Carlotta Adams has offered 672.0 at the set 2 of the auction.
+The product Unique Place for Clothes has, at the end of step 2 of the auction, the price 672.0.
+Carlotta Adams has offered 4.0 at the set 3 of the auction.
+Bethany Mota has offered 51.0 at the set 3 of the auction.
+Louis Tomlinson has offered 142.0 at the set 3 of the auction.
+Gigi Hadid has offered 673.0 at the set 3 of the auction.
+Carlotta Adams has offered 672.0 at the set 3 of the auction.
+The product Unique Place for Clothes has, at the end of step 3 of the auction, the price 673.0.
+Carlotta Adams has offered 4.0 at the set 4 of the auction.
+Bethany Mota has offered 51.0 at the set 4 of the auction.
+Louis Tomlinson has offered 142.0 at the set 4 of the auction.
+Gigi Hadid has offered 673.0 at the set 4 of the auction.
+Carlotta Adams has offered 695.0 at the set 4 of the auction.
+The product Unique Place for Clothes has, at the end of step 4 of the auction, the price 695.0.
+Carlotta Adams has offered 4.0 at the set 5 of the auction.
+Bethany Mota has offered 51.0 at the set 5 of the auction.
+Louis Tomlinson has offered 142.0 at the set 5 of the auction.
+Gigi Hadid has offered 697.0 at the set 5 of the auction.
+Carlotta Adams has offered 695.0 at the set 5 of the auction.
+The product Unique Place for Clothes has, at the end of step 5 of the auction, the price 697.0.
+Carlotta Adams has offered 4.0 at the set 6 of the auction.
+Bethany Mota has offered 51.0 at the set 6 of the auction.
+Louis Tomlinson has offered 142.0 at the set 6 of the auction.
+Gigi Hadid has offered 697.0 at the set 6 of the auction.
+Carlotta Adams has offered 713.0 at the set 6 of the auction.
+The product Unique Place for Clothes has, at the end of step 6 of the auction, the price 713.0.
+Carlotta Adams has offered 4.0 at the set 7 of the auction.
+Bethany Mota has offered 51.0 at the set 7 of the auction.
+Louis Tomlinson has offered 142.0 at the set 7 of the auction.
+Gigi Hadid has offered 697.0 at the set 7 of the auction.
+Carlotta Adams has offered 713.0 at the set 7 of the auction.
+The product Unique Place for Clothes has, at the end of step 7 of the auction, the price 713.0.
+Carlotta Adams has offered 4.0 at the set 8 of the auction.
+Bethany Mota has offered 51.0 at the set 8 of the auction.
+Louis Tomlinson has offered 142.0 at the set 8 of the auction.
+Gigi Hadid has offered 697.0 at the set 8 of the auction.
+Carlotta Adams has offered 713.0 at the set 8 of the auction.
+The product Unique Place for Clothes has, at the end of step 8 of the auction, the price 713.0.
+Carlotta Adams has offered 4.0 at the set 9 of the auction.
+Bethany Mota has offered 51.0 at the set 9 of the auction.
+Louis Tomlinson has offered 142.0 at the set 9 of the auction.
+Gigi Hadid has offered 697.0 at the set 9 of the auction.
+Carlotta Adams has offered 713.0 at the set 9 of the auction.
+The product Unique Place for Clothes has, at the end of step 9 of the auction, the price 713.0.
+Carlotta Adams has offered 4.0 at the set 10 of the auction.
+Bethany Mota has offered 51.0 at the set 10 of the auction.
+Louis Tomlinson has offered 142.0 at the set 10 of the auction.
+Gigi Hadid has offered 697.0 at the set 10 of the auction.
+Carlotta Adams has offered 713.0 at the set 10 of the auction.
+The product Unique Place for Clothes has, at the end of step 10 of the auction, the price 713.0.
+The product Unique Place for Clothes has been sold for 713.0.
+Louis Tomlinson has signed up for the auction of the product Wow bracelet.
+3/3 people have signed up for the auction of the product Wow bracelet.
+The auction for the product Wow bracelet will start now.
+The starting price for the product Wow bracelet is 6.0.
+Bethany Mota has offered 41.0 at the set 1 of the auction.
+Gigi Hadid has offered 152.0 at the set 1 of the auction.
+Louis Tomlinson has offered 658.0 at the set 1 of the auction.
+The product Wow bracelet has, at the end of step 1 of the auction, the price 658.0.
+Bethany Mota has offered 41.0 at the set 2 of the auction.
+Gigi Hadid has offered 152.0 at the set 2 of the auction.
+Louis Tomlinson has offered 658.0 at the set 2 of the auction.
+The product Wow bracelet has, at the end of step 2 of the auction, the price 658.0.
+Bethany Mota has offered 41.0 at the set 3 of the auction.
+Gigi Hadid has offered 152.0 at the set 3 of the auction.
+Louis Tomlinson has offered 658.0 at the set 3 of the auction.
+The product Wow bracelet has, at the end of step 3 of the auction, the price 658.0.
+Bethany Mota has offered 41.0 at the set 4 of the auction.
+Gigi Hadid has offered 152.0 at the set 4 of the auction.
+Louis Tomlinson has offered 658.0 at the set 4 of the auction.
+The product Wow bracelet has, at the end of step 4 of the auction, the price 658.0.
+Bethany Mota has offered 41.0 at the set 5 of the auction.
+Gigi Hadid has offered 152.0 at the set 5 of the auction.
+Louis Tomlinson has offered 658.0 at the set 5 of the auction.
+The product Wow bracelet has, at the end of step 5 of the auction, the price 658.0.
+Bethany Mota has offered 41.0 at the set 6 of the auction.
+Gigi Hadid has offered 152.0 at the set 6 of the auction.
+Louis Tomlinson has offered 658.0 at the set 6 of the auction.
+The product Wow bracelet has, at the end of step 6 of the auction, the price 658.0.
+Bethany Mota has offered 41.0 at the set 7 of the auction.
+Gigi Hadid has offered 152.0 at the set 7 of the auction.
+Louis Tomlinson has offered 658.0 at the set 7 of the auction.
+The product Wow bracelet has, at the end of step 7 of the auction, the price 658.0.
+Bethany Mota has offered 41.0 at the set 8 of the auction.
+Gigi Hadid has offered 152.0 at the set 8 of the auction.
+Louis Tomlinson has offered 658.0 at the set 8 of the auction.
+The product Wow bracelet has, at the end of step 8 of the auction, the price 658.0.
+Bethany Mota has offered 41.0 at the set 9 of the auction.
+Gigi Hadid has offered 152.0 at the set 9 of the auction.
+Louis Tomlinson has offered 658.0 at the set 9 of the auction.
+The product Wow bracelet has, at the end of step 9 of the auction, the price 658.0.
+Bethany Mota has offered 41.0 at the set 10 of the auction.
+Gigi Hadid has offered 152.0 at the set 10 of the auction.
+Louis Tomlinson has offered 658.0 at the set 10 of the auction.
+The product Wow bracelet has, at the end of step 10 of the auction, the price 658.0.
+Bethany Mota has offered 41.0 at the set 11 of the auction.
+Gigi Hadid has offered 152.0 at the set 11 of the auction.
+Louis Tomlinson has offered 658.0 at the set 11 of the auction.
+The product Wow bracelet has, at the end of step 11 of the auction, the price 658.0.
+Bethany Mota has offered 41.0 at the set 12 of the auction.
+Gigi Hadid has offered 152.0 at the set 12 of the auction.
+Louis Tomlinson has offered 658.0 at the set 12 of the auction.
+The product Wow bracelet has, at the end of step 12 of the auction, the price 658.0.
+Bethany Mota has offered 41.0 at the set 13 of the auction.
+Gigi Hadid has offered 152.0 at the set 13 of the auction.
+Louis Tomlinson has offered 658.0 at the set 13 of the auction.
+The product Wow bracelet has, at the end of step 13 of the auction, the price 658.0.
+Bethany Mota has offered 41.0 at the set 14 of the auction.
+Gigi Hadid has offered 152.0 at the set 14 of the auction.
+Louis Tomlinson has offered 658.0 at the set 14 of the auction.
+The product Wow bracelet has, at the end of step 14 of the auction, the price 658.0.
+Bethany Mota has offered 41.0 at the set 15 of the auction.
+Gigi Hadid has offered 152.0 at the set 15 of the auction.
+Louis Tomlinson has offered 658.0 at the set 15 of the auction.
+The product Wow bracelet has, at the end of step 15 of the auction, the price 658.0.
+Bethany Mota has offered 41.0 at the set 16 of the auction.
+Gigi Hadid has offered 152.0 at the set 16 of the auction.
+Louis Tomlinson has offered 658.0 at the set 16 of the auction.
+The product Wow bracelet has, at the end of step 16 of the auction, the price 658.0.
+Bethany Mota has offered 41.0 at the set 17 of the auction.
+Gigi Hadid has offered 152.0 at the set 17 of the auction.
+Louis Tomlinson has offered 658.0 at the set 17 of the auction.
+The product Wow bracelet has, at the end of step 17 of the auction, the price 658.0.
+Bethany Mota has offered 41.0 at the set 18 of the auction.
+Gigi Hadid has offered 152.0 at the set 18 of the auction.
+Louis Tomlinson has offered 658.0 at the set 18 of the auction.
+The product Wow bracelet has, at the end of step 18 of the auction, the price 658.0.
+Bethany Mota has offered 41.0 at the set 19 of the auction.
+Gigi Hadid has offered 152.0 at the set 19 of the auction.
+Louis Tomlinson has offered 658.0 at the set 19 of the auction.
+The product Wow bracelet has, at the end of step 19 of the auction, the price 658.0.
+The product Wow bracelet has been sold for 658.0.
+Ioana Dumitrescu has signed up for the auction of the product tiara.
+3/3 people have signed up for the auction of the product tiara.
+The auction for the product tiara will start now.
+The starting price for the product tiara is 1.0.
+Louis Tomlinson has offered 719.0 at the set 1 of the auction.
+Bethany Mota has offered 6.0 at the set 1 of the auction.
+Ioana Dumitrescu has offered 613.0 at the set 1 of the auction.
+The product tiara has, at the end of step 1 of the auction, the price 719.0.
+Louis Tomlinson has offered 719.0 at the set 2 of the auction.
+Bethany Mota has offered 786.0 at the set 2 of the auction.
+Ioana Dumitrescu has offered 745.0 at the set 2 of the auction.
+The product tiara has, at the end of step 2 of the auction, the price 786.0.
+Louis Tomlinson has offered 822.0 at the set 3 of the auction.
+Bethany Mota has offered 786.0 at the set 3 of the auction.
+Ioana Dumitrescu has offered 818.0 at the set 3 of the auction.
+The product tiara has, at the end of step 3 of the auction, the price 822.0.
+Louis Tomlinson has offered 822.0 at the set 4 of the auction.
+Bethany Mota has offered 786.0 at the set 4 of the auction.
+Ioana Dumitrescu has offered 832.0 at the set 4 of the auction.
+The product tiara has, at the end of step 4 of the auction, the price 832.0.
+Louis Tomlinson has offered 856.0 at the set 5 of the auction.
+Bethany Mota has offered 786.0 at the set 5 of the auction.
+Ioana Dumitrescu has offered 832.0 at the set 5 of the auction.
+The product tiara has, at the end of step 5 of the auction, the price 856.0.
+Louis Tomlinson has offered 856.0 at the set 6 of the auction.
+Bethany Mota has offered 786.0 at the set 6 of the auction.
+Ioana Dumitrescu has offered 874.0 at the set 6 of the auction.
+The product tiara has, at the end of step 6 of the auction, the price 874.0.
+Louis Tomlinson has offered 880.0 at the set 7 of the auction.
+Bethany Mota has offered 786.0 at the set 7 of the auction.
+Ioana Dumitrescu has offered 874.0 at the set 7 of the auction.
+The product tiara has, at the end of step 7 of the auction, the price 880.0.
+Louis Tomlinson has offered 880.0 at the set 8 of the auction.
+Bethany Mota has offered 786.0 at the set 8 of the auction.
+Ioana Dumitrescu has offered 881.0 at the set 8 of the auction.
+The product tiara has, at the end of step 8 of the auction, the price 881.0.
+Louis Tomlinson has offered 884.0 at the set 9 of the auction.
+Bethany Mota has offered 786.0 at the set 9 of the auction.
+Ioana Dumitrescu has offered 881.0 at the set 9 of the auction.
+The product tiara has, at the end of step 9 of the auction, the price 884.0.
+Louis Tomlinson has offered 884.0 at the set 10 of the auction.
+Bethany Mota has offered 786.0 at the set 10 of the auction.
+Ioana Dumitrescu has offered 887.0 at the set 10 of the auction.
+The product tiara has, at the end of step 10 of the auction, the price 887.0.
+Louis Tomlinson has offered 884.0 at the set 11 of the auction.
+Bethany Mota has offered 786.0 at the set 11 of the auction.
+Ioana Dumitrescu has offered 887.0 at the set 11 of the auction.
+The product tiara has, at the end of step 11 of the auction, the price 887.0.
+Louis Tomlinson has offered 884.0 at the set 12 of the auction.
+Bethany Mota has offered 786.0 at the set 12 of the auction.
+Ioana Dumitrescu has offered 887.0 at the set 12 of the auction.
+The product tiara has, at the end of step 12 of the auction, the price 887.0.
+Louis Tomlinson has offered 884.0 at the set 13 of the auction.
+Bethany Mota has offered 786.0 at the set 13 of the auction.
+Ioana Dumitrescu has offered 887.0 at the set 13 of the auction.
+The product tiara has, at the end of step 13 of the auction, the price 887.0.
+Louis Tomlinson has offered 884.0 at the set 14 of the auction.
+Bethany Mota has offered 786.0 at the set 14 of the auction.
+Ioana Dumitrescu has offered 887.0 at the set 14 of the auction.
+The product tiara has, at the end of step 14 of the auction, the price 887.0.
+Louis Tomlinson has offered 884.0 at the set 15 of the auction.
+Bethany Mota has offered 786.0 at the set 15 of the auction.
+Ioana Dumitrescu has offered 887.0 at the set 15 of the auction.
+The product tiara has, at the end of step 15 of the auction, the price 887.0.
+Louis Tomlinson has offered 884.0 at the set 16 of the auction.
+Bethany Mota has offered 786.0 at the set 16 of the auction.
+Ioana Dumitrescu has offered 887.0 at the set 16 of the auction.
+The product tiara has, at the end of step 16 of the auction, the price 887.0.
+Louis Tomlinson has offered 884.0 at the set 17 of the auction.
+Bethany Mota has offered 786.0 at the set 17 of the auction.
+Ioana Dumitrescu has offered 887.0 at the set 17 of the auction.
+The product tiara has, at the end of step 17 of the auction, the price 887.0.
+The product tiara has been sold for 887.0.

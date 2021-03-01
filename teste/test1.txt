@@ -1,0 +1,50 @@
+addClient NaturalPerson "Blaga Ana-Maria" blagaana@yahoo.com 23/08/2000
+addClient LegalPerson "Dua Lipa" dualipa123@yahoo.com SRL 12673.45
+addProduct Furniture "Romanian table" 1192 32.68 "table" pine 20 2
+addProduct Furniture "Chill night" 1304 83.05 "side table" mahogany 16 3
+addClient NaturalPerson "Fallon Carrington" FallonCarrington1861690792@gmail.com 24/11/1972
+addClient LegalPerson "Niall Horan" NiallHoran317478454@gmail.com SA 47810.54
+addProduct Furniture "Chill Family Vibes" 1719 43.45 "dining table" mahogany 16 3
+addProduct Painting "Wannabe Happy" 1342 57.64 "Washington Allston" acrylic 12 4
+addClient NaturalPerson "Bella Hadid" BellaHadid-1952125508@gmail.com 07/02/1975
+addClient LegalPerson "Barbara Palvin" BarbaraPalvin1487127582@gmail.com SA 16409.34
+addClient LegalPerson "Liam Payne" LiamPayne-1950055374@gmail.com SA 43479.55
+addProduct Painting "Dust II" 1337 39.39 "Washington Allston" oil 10 5
+addClient NaturalPerson "Zayn Malik" ZaynMalik1388347444@gmail.com 22/01/1971
+addClient LegalPerson "Albert Masca" AlbertMasca675613521@gmail.com SA 68901.69
+addClient NaturalPerson "Louis Tomlinson" LouisTomlinson209921823@gmail.com 08/06/1973
+listProducts 1
+addProduct Painting "CS GO" 1244 93.62 "Boris Anrep" oil 10 4
+addBrokers 12
+addProduct Painting Monalisa 2000 1000.00 DaVinci oil 10 5
+addProduct Jewelry "Rare ring" 1687 40.98 "steel" false 19 2
+addProduct Jewelry "Unique tiara" 1118 77.97 "gold" false 12 3
+addProduct Furniture "Mio Bedroom" 2001 1000.00 bed oak 10 4
+listProducts 1
+addProduct Jewelry "Pandora Bracelet" 2001 300.00 gold true 5 2
+addProduct Painting "Black Mirror" 1610 68.74 "Fallon Carrington" acrylic 15 2
+listProducts 2
+requestSignUpForAuction 1 1 2000.00
+requestSignUpForAuction 2 1 2000.00
+addProduct Painting "Las Centralistas" 1013 20.33 "Fallon Carrington" acrylic 10 3
+requestSignUpForAuction 1 2 800.00
+requestSignUpForAuction 2 2 700.00
+addProduct Jewelry "Rare ring" 1419 45.27 "steel" true 6 9
+addProduct Furniture "Chill Comfy Chair" 1956 19.4 "chair" walnut 30 3
+requestSignUpForAuction 3 2 500.00
+addProduct Painting "The Window" 1429 37.28 "Andreea Blaga" acrylic 12 4
+requestSignUpForAuction 1 3 550.00
+addProduct Painting "Kara Sevda" 1728 54.11 "Washington Allston" acrylic 4 3
+requestSignUpForAuction 5 4 3000.00
+addProduct Jewelry "Pandora Ring" 2009 600 silver true 4 3
+requestSignUpForAuction 1 4 3105.00
+listProducts 3
+requestSignUpForAuction 3 4 3210.00
+requestSignUpForAuction 2 5 4000.00
+addProduct Furniture "French style Morning Set" 1929 20.72 "make-up table" birch 13 4
+addProduct Furniture "Unique American style" 1988 62.52 "chair" pine 11 6
+requestSignUpForAuction 4 4 2000.00
+requestSignUpForAuction 4 3 880.00
+requestSignUpForAuction 2 3 750.00
+requestSignUpForAuction 3 15 725.00
+listProducts 4

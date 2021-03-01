@@ -1,0 +1,192 @@
+Welcome to the Online Auction House!
+The admin has connected.
+Niall Horan has joined the online auction system with the client ID 1.
+Fallon Carrington has joined the online auction system with the client ID 2.
+Dani Wow has joined the online auction system with the client ID 3.
+Liam Payne has joined the online auction system with the client ID 4.
+The product Vrajitoarea with the ID 1 can be bought in the auction with the ID 1.
+The product tiara with the ID 2 can be bought in the auction with the ID 2.
+The product French style with the ID 3 can be bought in the auction with the ID 3.
+The product Wow with the ID 4 can be bought in the auction with the ID 4.
+The product French style with the ID 5 can be bought in the auction with the ID 5.
+The product Disney World with the ID 6 can be bought in the auction with the ID 6.
+The product Exclusive with the ID 7 can be bought in the auction with the ID 7.
+The product Vrajitoarea with the ID 8 can be bought in the auction with the ID 8.
+The product French style with the ID 9 can be bought in the auction with the ID 9.
+The product necklace with the ID 10 can be bought in the auction with the ID 10.
+The product Me Gusta with the ID 11 can be bought in the auction with the ID 11.
+Neil Armstrong has joined the online auction system with the client ID 5.
+Bethany Mota has joined the online auction system with the client ID 6.
+Harry Styles has joined the online auction system with the client ID 7.
+13 new brokers have been employed by the auction house.
+Request for listing the products available for sale from the client Fallon Carrington with the ID 2:
+The painting Vrajitoarea with the ID 1 was painted by Horia Bernea with acrylic in 1754 and has the minimum selling price 74.99.
+The jewelry tiara without gemstone and with the ID 2, is made of steel in 1643 and has the minimum selling price 38.91.
+The furniture French style with the ID 3 is a/an bed made of pine in 1723 and has the minimum selling price 10.33.
+The furniture Wow with the ID 4 is a/an wardrobe made of ash in 1724 and has the minimum selling price 33.93.
+The furniture French style with the ID 5 is a/an wardrobe made of ash in 1281 and has the minimum selling price 96.36.
+The painting Disney World with the ID 6 was painted by Fallon Carrington with oil in 1082 and has the minimum selling price 14.83.
+The furniture Exclusive with the ID 7 is a/an table made of mahogany in 1964 and has the minimum selling price 42.07.
+The painting Vrajitoarea with the ID 8 was painted by Fallon Carrington with acrylic in 1252 and has the minimum selling price 24.78.
+The furniture French style with the ID 9 is a/an chair made of ash in 1543 and has the minimum selling price 37.91.
+The jewelry necklace without gemstone and with the ID 10, is made of steel in 1711 and has the minimum selling price 52.19.
+The painting Me Gusta with the ID 11 was painted by Washington Allston with tempera in 1987 and has the minimum selling price 90.09.
+Fallon Carrington has signed up for the auction of the product Vrajitoarea.
+1/3 people have signed up for the auction of the product Vrajitoarea.
+Dani Wow has signed up for the auction of the product Vrajitoarea.
+2/3 people have signed up for the auction of the product Vrajitoarea.
+The product bracelet with the ID 12 can be bought in the auction with the ID 12.
+The product Nunta in cer with the ID 13 can be bought in the auction with the ID 13.
+The product Astronomul with the ID 14 can be bought in the auction with the ID 14.
+The product Infernul lui Dante with the ID 15 can be bought in the auction with the ID 15.
+The product bracelet with the ID 16 can be bought in the auction with the ID 16.
+Niall Horan has signed up for the auction of the product Vrajitoarea.
+3/3 people have signed up for the auction of the product Vrajitoarea.
+The auction for the product Vrajitoarea will start now.
+The starting price for the product Vrajitoarea is 5.0.
+Fallon Carrington has offered 46.0 at the set 1 of the auction.
+Dani Wow has offered 11.0 at the set 1 of the auction.
+Niall Horan has offered 22.0 at the set 1 of the auction.
+The product Vrajitoarea has, at the end of step 1 of the auction, the price 46.0.
+Fallon Carrington has offered 46.0 at the set 2 of the auction.
+Dani Wow has offered 49.0 at the set 2 of the auction.
+Niall Horan has offered 48.0 at the set 2 of the auction.
+The product Vrajitoarea has, at the end of step 2 of the auction, the price 49.0.
+Fallon Carrington has offered 49.0 at the set 3 of the auction.
+Dani Wow has offered 49.0 at the set 3 of the auction.
+Niall Horan has offered 52.0 at the set 3 of the auction.
+The product Vrajitoarea has, at the end of step 3 of the auction, the price 52.0.
+Fallon Carrington has offered 49.0 at the set 4 of the auction.
+Dani Wow has offered 55.0 at the set 4 of the auction.
+Niall Horan has offered 52.0 at the set 4 of the auction.
+The product Vrajitoarea has, at the end of step 4 of the auction, the price 55.0.
+Fallon Carrington has offered 49.0 at the set 5 of the auction.
+Dani Wow has offered 55.0 at the set 5 of the auction.
+Niall Horan has offered 56.0 at the set 5 of the auction.
+The product Vrajitoarea has, at the end of step 5 of the auction, the price 56.0.
+The product Vrajitoarea has been sold for 56.0.
+Fallon Carrington has signed up for the auction of the product bracelet.
+1/2 people have signed up for the auction of the product bracelet.
+Dani Wow has signed up for the auction of the product bracelet.
+2/2 people have signed up for the auction of the product bracelet.
+The auction for the product bracelet will start now.
+The starting price for the product bracelet is 7.0.
+Fallon Carrington has offered 117.0 at the set 1 of the auction.
+Dani Wow has offered 40.0 at the set 1 of the auction.
+The product bracelet has, at the end of step 1 of the auction, the price 117.0.
+Fallon Carrington has offered 117.0 at the set 2 of the auction.
+Dani Wow has offered 139.0 at the set 2 of the auction.
+The product bracelet has, at the end of step 2 of the auction, the price 139.0.
+Fallon Carrington has offered 117.0 at the set 3 of the auction.
+Dani Wow has offered 139.0 at the set 3 of the auction.
+The product bracelet has, at the end of step 3 of the auction, the price 139.0.
+Fallon Carrington has offered 117.0 at the set 4 of the auction.
+Dani Wow has offered 139.0 at the set 4 of the auction.
+The product bracelet has, at the end of step 4 of the auction, the price 139.0.
+Fallon Carrington has offered 117.0 at the set 5 of the auction.
+Dani Wow has offered 139.0 at the set 5 of the auction.
+The product bracelet has, at the end of step 5 of the auction, the price 139.0.
+Fallon Carrington has offered 117.0 at the set 6 of the auction.
+Dani Wow has offered 139.0 at the set 6 of the auction.
+The product bracelet has, at the end of step 6 of the auction, the price 139.0.
+Fallon Carrington has offered 117.0 at the set 7 of the auction.
+Dani Wow has offered 139.0 at the set 7 of the auction.
+The product bracelet has, at the end of step 7 of the auction, the price 139.0.
+Fallon Carrington has offered 117.0 at the set 8 of the auction.
+Dani Wow has offered 139.0 at the set 8 of the auction.
+The product bracelet has, at the end of step 8 of the auction, the price 139.0.
+Fallon Carrington has offered 117.0 at the set 9 of the auction.
+Dani Wow has offered 139.0 at the set 9 of the auction.
+The product bracelet has, at the end of step 9 of the auction, the price 139.0.
+Fallon Carrington has offered 117.0 at the set 10 of the auction.
+Dani Wow has offered 139.0 at the set 10 of the auction.
+The product bracelet has, at the end of step 10 of the auction, the price 139.0.
+Fallon Carrington has offered 117.0 at the set 11 of the auction.
+Dani Wow has offered 139.0 at the set 11 of the auction.
+The product bracelet has, at the end of step 11 of the auction, the price 139.0.
+The product bracelet has been sold for 139.0.
+The product Rare with the ID 17 can be bought in the auction with the ID 17.
+The product Romanian with the ID 18 can be bought in the auction with the ID 18.
+The product Fata cu cercel de perla with the ID 19 can be bought in the auction with the ID 19.
+The product Wow with the ID 20 can be bought in the auction with the ID 20.
+Fallon Carrington has signed up for the auction of the product Wow.
+1/3 people have signed up for the auction of the product Wow.
+Fallon Carrington has signed up for the auction of the product Fata cu cercel de perla.
+1/2 people have signed up for the auction of the product Fata cu cercel de perla.
+Niall Horan has signed up for the auction of the product Rare.
+1/2 people have signed up for the auction of the product Rare.
+Liam Payne has signed up for the auction of the product Wow.
+2/3 people have signed up for the auction of the product Wow.
+Neil Armstrong has signed up for the auction of the product Rare.
+2/2 people have signed up for the auction of the product Rare.
+The auction for the product Rare will start now.
+The starting price for the product Rare is 2.0.
+Niall Horan has offered 17.0 at the set 1 of the auction.
+Neil Armstrong has offered 41.0 at the set 1 of the auction.
+The product Rare has, at the end of step 1 of the auction, the price 41.0.
+Niall Horan has offered 79.0 at the set 2 of the auction.
+Neil Armstrong has offered 41.0 at the set 2 of the auction.
+The product Rare has, at the end of step 2 of the auction, the price 79.0.
+Niall Horan has offered 79.0 at the set 3 of the auction.
+Neil Armstrong has offered 125.0 at the set 3 of the auction.
+The product Rare has, at the end of step 3 of the auction, the price 125.0.
+Niall Horan has offered 126.0 at the set 4 of the auction.
+Neil Armstrong has offered 125.0 at the set 4 of the auction.
+The product Rare has, at the end of step 4 of the auction, the price 126.0.
+Niall Horan has offered 126.0 at the set 5 of the auction.
+Neil Armstrong has offered 137.0 at the set 5 of the auction.
+The product Rare has, at the end of step 5 of the auction, the price 137.0.
+Niall Horan has offered 145.0 at the set 6 of the auction.
+Neil Armstrong has offered 137.0 at the set 6 of the auction.
+The product Rare has, at the end of step 6 of the auction, the price 145.0.
+Niall Horan has offered 145.0 at the set 7 of the auction.
+Neil Armstrong has offered 151.0 at the set 7 of the auction.
+The product Rare has, at the end of step 7 of the auction, the price 151.0.
+Niall Horan has offered 145.0 at the set 8 of the auction.
+Neil Armstrong has offered 151.0 at the set 8 of the auction.
+The product Rare has, at the end of step 8 of the auction, the price 151.0.
+Niall Horan has offered 145.0 at the set 9 of the auction.
+Neil Armstrong has offered 151.0 at the set 9 of the auction.
+The product Rare has, at the end of step 9 of the auction, the price 151.0.
+Niall Horan has offered 145.0 at the set 10 of the auction.
+Neil Armstrong has offered 151.0 at the set 10 of the auction.
+The product Rare has, at the end of step 10 of the auction, the price 151.0.
+The product Rare has been sold for 151.0.
+Dani Wow has signed up for the auction of the product Fata cu cercel de perla.
+2/2 people have signed up for the auction of the product Fata cu cercel de perla.
+The auction for the product Fata cu cercel de perla will start now.
+The starting price for the product Fata cu cercel de perla is 18.0.
+Fallon Carrington has offered 50.0 at the set 1 of the auction.
+Dani Wow has offered 64.0 at the set 1 of the auction.
+The product Fata cu cercel de perla has, at the end of step 1 of the auction, the price 64.0.
+Fallon Carrington has offered 107.0 at the set 2 of the auction.
+Dani Wow has offered 64.0 at the set 2 of the auction.
+The product Fata cu cercel de perla has, at the end of step 2 of the auction, the price 107.0.
+Fallon Carrington has offered 107.0 at the set 3 of the auction.
+Dani Wow has offered 158.0 at the set 3 of the auction.
+The product Fata cu cercel de perla has, at the end of step 3 of the auction, the price 158.0.
+Fallon Carrington has offered 165.0 at the set 4 of the auction.
+Dani Wow has offered 158.0 at the set 4 of the auction.
+The product Fata cu cercel de perla has, at the end of step 4 of the auction, the price 165.0.
+Fallon Carrington has offered 165.0 at the set 5 of the auction.
+Dani Wow has offered 198.0 at the set 5 of the auction.
+The product Fata cu cercel de perla has, at the end of step 5 of the auction, the price 198.0.
+Fallon Carrington has offered 209.0 at the set 6 of the auction.
+Dani Wow has offered 198.0 at the set 6 of the auction.
+The product Fata cu cercel de perla has, at the end of step 6 of the auction, the price 209.0.
+Fallon Carrington has offered 209.0 at the set 7 of the auction.
+Dani Wow has offered 210.0 at the set 7 of the auction.
+The product Fata cu cercel de perla has, at the end of step 7 of the auction, the price 210.0.
+Fallon Carrington has offered 219.0 at the set 8 of the auction.
+Dani Wow has offered 210.0 at the set 8 of the auction.
+The product Fata cu cercel de perla has, at the end of step 8 of the auction, the price 219.0.
+Fallon Carrington has offered 219.0 at the set 9 of the auction.
+Dani Wow has offered 210.0 at the set 9 of the auction.
+The product Fata cu cercel de perla has, at the end of step 9 of the auction, the price 219.0.
+Fallon Carrington has offered 219.0 at the set 10 of the auction.
+Dani Wow has offered 210.0 at the set 10 of the auction.
+The product Fata cu cercel de perla has, at the end of step 10 of the auction, the price 219.0.
+Fallon Carrington has offered 219.0 at the set 11 of the auction.
+Dani Wow has offered 210.0 at the set 11 of the auction.
+The product Fata cu cercel de perla has, at the end of step 11 of the auction, the price 219.0.
+The product Fata cu cercel de perla has been sold for 219.0.

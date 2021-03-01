@@ -1,0 +1,385 @@
+Welcome to the Online Auction House!
+The admin has connected.
+Blaga Ana-Maria has joined the online auction system with the client ID 1.
+Dua Lipa has joined the online auction system with the client ID 2.
+The product Romanian table with the ID 1 can be bought in the auction with the ID 1.
+The product Chill night with the ID 2 can be bought in the auction with the ID 2.
+Fallon Carrington has joined the online auction system with the client ID 3.
+Niall Horan has joined the online auction system with the client ID 4.
+The product Chill Family Vibes with the ID 3 can be bought in the auction with the ID 3.
+The product Wannabe Happy with the ID 4 can be bought in the auction with the ID 4.
+Bella Hadid has joined the online auction system with the client ID 5.
+Barbara Palvin has joined the online auction system with the client ID 6.
+Liam Payne has joined the online auction system with the client ID 7.
+The product Dust II with the ID 5 can be bought in the auction with the ID 5.
+Zayn Malik has joined the online auction system with the client ID 8.
+Albert Masca has joined the online auction system with the client ID 9.
+Louis Tomlinson has joined the online auction system with the client ID 10.
+Request for listing the products available for sale from the client Blaga Ana-Maria with the ID 1:
+The furniture Romanian table with the ID 1 is a/an table made of pine in 1192 and has the minimum selling price 32.68.
+The furniture Chill night with the ID 2 is a/an side table made of mahogany in 1304 and has the minimum selling price 83.05.
+The furniture Chill Family Vibes with the ID 3 is a/an dining table made of mahogany in 1719 and has the minimum selling price 43.45.
+The painting Wannabe Happy with the ID 4 was painted by Washington Allston with acrylic in 1342 and has the minimum selling price 57.64.
+The painting Dust II with the ID 5 was painted by Washington Allston with oil in 1337 and has the minimum selling price 39.39.
+The product CS GO with the ID 6 can be bought in the auction with the ID 6.
+12 new brokers have been employed by the auction house.
+The product Monalisa with the ID 7 can be bought in the auction with the ID 7.
+The product Rare ring with the ID 8 can be bought in the auction with the ID 8.
+The product Unique tiara with the ID 9 can be bought in the auction with the ID 9.
+The product Mio Bedroom with the ID 10 can be bought in the auction with the ID 10.
+Request for listing the products available for sale from the client Blaga Ana-Maria with the ID 1:
+The furniture Romanian table with the ID 1 is a/an table made of pine in 1192 and has the minimum selling price 32.68.
+The furniture Chill night with the ID 2 is a/an side table made of mahogany in 1304 and has the minimum selling price 83.05.
+The furniture Chill Family Vibes with the ID 3 is a/an dining table made of mahogany in 1719 and has the minimum selling price 43.45.
+The painting Wannabe Happy with the ID 4 was painted by Washington Allston with acrylic in 1342 and has the minimum selling price 57.64.
+The painting Dust II with the ID 5 was painted by Washington Allston with oil in 1337 and has the minimum selling price 39.39.
+The painting CS GO with the ID 6 was painted by Boris Anrep with oil in 1244 and has the minimum selling price 93.62.
+The painting Monalisa with the ID 7 was painted by DaVinci with oil in 2000 and has the minimum selling price 1000.0.
+The jewelry Rare ring without gemstone and with the ID 8, is made of steel in 1687 and has the minimum selling price 40.98.
+The jewelry Unique tiara without gemstone and with the ID 9, is made of gold in 1118 and has the minimum selling price 77.97.
+The furniture Mio Bedroom with the ID 10 is a/an bed made of oak in 2001 and has the minimum selling price 1000.0.
+The product Pandora Bracelet with the ID 11 can be bought in the auction with the ID 11.
+The product Black Mirror with the ID 12 can be bought in the auction with the ID 12.
+Request for listing the products available for sale from the client Dua Lipa with the ID 2:
+The furniture Romanian table with the ID 1 is a/an table made of pine in 1192 and has the minimum selling price 32.68.
+The furniture Chill night with the ID 2 is a/an side table made of mahogany in 1304 and has the minimum selling price 83.05.
+The furniture Chill Family Vibes with the ID 3 is a/an dining table made of mahogany in 1719 and has the minimum selling price 43.45.
+The painting Wannabe Happy with the ID 4 was painted by Washington Allston with acrylic in 1342 and has the minimum selling price 57.64.
+The painting Dust II with the ID 5 was painted by Washington Allston with oil in 1337 and has the minimum selling price 39.39.
+The painting CS GO with the ID 6 was painted by Boris Anrep with oil in 1244 and has the minimum selling price 93.62.
+The painting Monalisa with the ID 7 was painted by DaVinci with oil in 2000 and has the minimum selling price 1000.0.
+The jewelry Rare ring without gemstone and with the ID 8, is made of steel in 1687 and has the minimum selling price 40.98.
+The jewelry Unique tiara without gemstone and with the ID 9, is made of gold in 1118 and has the minimum selling price 77.97.
+The furniture Mio Bedroom with the ID 10 is a/an bed made of oak in 2001 and has the minimum selling price 1000.0.
+The jewelry Pandora Bracelet with gemstone and and with ID 11 is made of gold in 2001 and has the minimum selling price 300.0.
+The painting Black Mirror with the ID 12 was painted by Fallon Carrington with acrylic in 1610 and has the minimum selling price 68.74.
+Blaga Ana-Maria has signed up for the auction of the product Romanian table.
+1/2 people have signed up for the auction of the product Romanian table.
+Dua Lipa has signed up for the auction of the product Romanian table.
+2/2 people have signed up for the auction of the product Romanian table.
+The auction for the product Romanian table will start now.
+The starting price for the product Romanian table is 12.0.
+Blaga Ana-Maria has offered 1994.0 at the set 1 of the auction.
+Dua Lipa has offered 1283.0 at the set 1 of the auction.
+The product Romanian table has, at the end of step 1 of the auction, the price 1994.0.
+Blaga Ana-Maria has offered 1994.0 at the set 2 of the auction.
+Dua Lipa has offered 1996.0 at the set 2 of the auction.
+The product Romanian table has, at the end of step 2 of the auction, the price 1996.0.
+Blaga Ana-Maria has offered 1999.0 at the set 3 of the auction.
+Dua Lipa has offered 1996.0 at the set 3 of the auction.
+The product Romanian table has, at the end of step 3 of the auction, the price 1999.0.
+Blaga Ana-Maria has offered 1999.0 at the set 4 of the auction.
+Dua Lipa has offered 2000.0 at the set 4 of the auction.
+The product Romanian table has, at the end of step 4 of the auction, the price 2000.0.
+Blaga Ana-Maria has offered 1999.0 at the set 5 of the auction.
+Dua Lipa has offered 2000.0 at the set 5 of the auction.
+The product Romanian table has, at the end of step 5 of the auction, the price 2000.0.
+Blaga Ana-Maria has offered 1999.0 at the set 6 of the auction.
+Dua Lipa has offered 2000.0 at the set 6 of the auction.
+The product Romanian table has, at the end of step 6 of the auction, the price 2000.0.
+Blaga Ana-Maria has offered 1999.0 at the set 7 of the auction.
+Dua Lipa has offered 2000.0 at the set 7 of the auction.
+The product Romanian table has, at the end of step 7 of the auction, the price 2000.0.
+Blaga Ana-Maria has offered 1999.0 at the set 8 of the auction.
+Dua Lipa has offered 2000.0 at the set 8 of the auction.
+The product Romanian table has, at the end of step 8 of the auction, the price 2000.0.
+Blaga Ana-Maria has offered 1999.0 at the set 9 of the auction.
+Dua Lipa has offered 2000.0 at the set 9 of the auction.
+The product Romanian table has, at the end of step 9 of the auction, the price 2000.0.
+Blaga Ana-Maria has offered 1999.0 at the set 10 of the auction.
+Dua Lipa has offered 2000.0 at the set 10 of the auction.
+The product Romanian table has, at the end of step 10 of the auction, the price 2000.0.
+Blaga Ana-Maria has offered 1999.0 at the set 11 of the auction.
+Dua Lipa has offered 2000.0 at the set 11 of the auction.
+The product Romanian table has, at the end of step 11 of the auction, the price 2000.0.
+Blaga Ana-Maria has offered 1999.0 at the set 12 of the auction.
+Dua Lipa has offered 2000.0 at the set 12 of the auction.
+The product Romanian table has, at the end of step 12 of the auction, the price 2000.0.
+Blaga Ana-Maria has offered 1999.0 at the set 13 of the auction.
+Dua Lipa has offered 2000.0 at the set 13 of the auction.
+The product Romanian table has, at the end of step 13 of the auction, the price 2000.0.
+Blaga Ana-Maria has offered 1999.0 at the set 14 of the auction.
+Dua Lipa has offered 2000.0 at the set 14 of the auction.
+The product Romanian table has, at the end of step 14 of the auction, the price 2000.0.
+Blaga Ana-Maria has offered 1999.0 at the set 15 of the auction.
+Dua Lipa has offered 2000.0 at the set 15 of the auction.
+The product Romanian table has, at the end of step 15 of the auction, the price 2000.0.
+Blaga Ana-Maria has offered 1999.0 at the set 16 of the auction.
+Dua Lipa has offered 2000.0 at the set 16 of the auction.
+The product Romanian table has, at the end of step 16 of the auction, the price 2000.0.
+Blaga Ana-Maria has offered 1999.0 at the set 17 of the auction.
+Dua Lipa has offered 2000.0 at the set 17 of the auction.
+The product Romanian table has, at the end of step 17 of the auction, the price 2000.0.
+Blaga Ana-Maria has offered 1999.0 at the set 18 of the auction.
+Dua Lipa has offered 2000.0 at the set 18 of the auction.
+The product Romanian table has, at the end of step 18 of the auction, the price 2000.0.
+Blaga Ana-Maria has offered 1999.0 at the set 19 of the auction.
+Dua Lipa has offered 2000.0 at the set 19 of the auction.
+The product Romanian table has, at the end of step 19 of the auction, the price 2000.0.
+Blaga Ana-Maria has offered 1999.0 at the set 20 of the auction.
+Dua Lipa has offered 2000.0 at the set 20 of the auction.
+The product Romanian table has, at the end of step 20 of the auction, the price 2000.0.
+The product Romanian table has been sold for 2000.0.
+The product Las Centralistas with the ID 13 can be bought in the auction with the ID 13.
+Blaga Ana-Maria has signed up for the auction of the product Chill night.
+1/3 people have signed up for the auction of the product Chill night.
+Dua Lipa has signed up for the auction of the product Chill night.
+2/3 people have signed up for the auction of the product Chill night.
+The product Rare ring with the ID 14 can be bought in the auction with the ID 14.
+The product Chill Comfy Chair with the ID 15 can be bought in the auction with the ID 15.
+Fallon Carrington has signed up for the auction of the product Chill night.
+3/3 people have signed up for the auction of the product Chill night.
+The auction for the product Chill night will start now.
+The starting price for the product Chill night is 28.0.
+Blaga Ana-Maria has offered 31.0 at the set 1 of the auction.
+Dua Lipa has offered 153.0 at the set 1 of the auction.
+Fallon Carrington has offered 211.0 at the set 1 of the auction.
+The product Chill night has, at the end of step 1 of the auction, the price 211.0.
+Blaga Ana-Maria has offered 504.0 at the set 2 of the auction.
+Dua Lipa has offered 350.0 at the set 2 of the auction.
+Fallon Carrington has offered 211.0 at the set 2 of the auction.
+The product Chill night has, at the end of step 2 of the auction, the price 504.0.
+Blaga Ana-Maria has offered 504.0 at the set 3 of the auction.
+Dua Lipa has offered 581.0 at the set 3 of the auction.
+Fallon Carrington has offered 211.0 at the set 3 of the auction.
+The product Chill night has, at the end of step 3 of the auction, the price 581.0.
+Blaga Ana-Maria has offered 778.0 at the set 4 of the auction.
+Dua Lipa has offered 581.0 at the set 4 of the auction.
+Fallon Carrington has offered 211.0 at the set 4 of the auction.
+The product Chill night has, at the end of step 4 of the auction, the price 778.0.
+Blaga Ana-Maria has offered 778.0 at the set 5 of the auction.
+Dua Lipa has offered 581.0 at the set 5 of the auction.
+Fallon Carrington has offered 211.0 at the set 5 of the auction.
+The product Chill night has, at the end of step 5 of the auction, the price 778.0.
+Blaga Ana-Maria has offered 778.0 at the set 6 of the auction.
+Dua Lipa has offered 581.0 at the set 6 of the auction.
+Fallon Carrington has offered 211.0 at the set 6 of the auction.
+The product Chill night has, at the end of step 6 of the auction, the price 778.0.
+Blaga Ana-Maria has offered 778.0 at the set 7 of the auction.
+Dua Lipa has offered 581.0 at the set 7 of the auction.
+Fallon Carrington has offered 211.0 at the set 7 of the auction.
+The product Chill night has, at the end of step 7 of the auction, the price 778.0.
+Blaga Ana-Maria has offered 778.0 at the set 8 of the auction.
+Dua Lipa has offered 581.0 at the set 8 of the auction.
+Fallon Carrington has offered 211.0 at the set 8 of the auction.
+The product Chill night has, at the end of step 8 of the auction, the price 778.0.
+Blaga Ana-Maria has offered 778.0 at the set 9 of the auction.
+Dua Lipa has offered 581.0 at the set 9 of the auction.
+Fallon Carrington has offered 211.0 at the set 9 of the auction.
+The product Chill night has, at the end of step 9 of the auction, the price 778.0.
+Blaga Ana-Maria has offered 778.0 at the set 10 of the auction.
+Dua Lipa has offered 581.0 at the set 10 of the auction.
+Fallon Carrington has offered 211.0 at the set 10 of the auction.
+The product Chill night has, at the end of step 10 of the auction, the price 778.0.
+Blaga Ana-Maria has offered 778.0 at the set 11 of the auction.
+Dua Lipa has offered 581.0 at the set 11 of the auction.
+Fallon Carrington has offered 211.0 at the set 11 of the auction.
+The product Chill night has, at the end of step 11 of the auction, the price 778.0.
+Blaga Ana-Maria has offered 778.0 at the set 12 of the auction.
+Dua Lipa has offered 581.0 at the set 12 of the auction.
+Fallon Carrington has offered 211.0 at the set 12 of the auction.
+The product Chill night has, at the end of step 12 of the auction, the price 778.0.
+Blaga Ana-Maria has offered 778.0 at the set 13 of the auction.
+Dua Lipa has offered 581.0 at the set 13 of the auction.
+Fallon Carrington has offered 211.0 at the set 13 of the auction.
+The product Chill night has, at the end of step 13 of the auction, the price 778.0.
+Blaga Ana-Maria has offered 778.0 at the set 14 of the auction.
+Dua Lipa has offered 581.0 at the set 14 of the auction.
+Fallon Carrington has offered 211.0 at the set 14 of the auction.
+The product Chill night has, at the end of step 14 of the auction, the price 778.0.
+Blaga Ana-Maria has offered 778.0 at the set 15 of the auction.
+Dua Lipa has offered 581.0 at the set 15 of the auction.
+Fallon Carrington has offered 211.0 at the set 15 of the auction.
+The product Chill night has, at the end of step 15 of the auction, the price 778.0.
+Blaga Ana-Maria has offered 778.0 at the set 16 of the auction.
+Dua Lipa has offered 581.0 at the set 16 of the auction.
+Fallon Carrington has offered 211.0 at the set 16 of the auction.
+The product Chill night has, at the end of step 16 of the auction, the price 778.0.
+The product Chill night has been sold for 778.0.
+The product The Window with the ID 16 can be bought in the auction with the ID 16.
+Blaga Ana-Maria has signed up for the auction of the product Chill Family Vibes.
+1/3 people have signed up for the auction of the product Chill Family Vibes.
+The product Kara Sevda with the ID 17 can be bought in the auction with the ID 17.
+Bella Hadid has signed up for the auction of the product Wannabe Happy.
+1/4 people have signed up for the auction of the product Wannabe Happy.
+The product Pandora Ring with the ID 18 can be bought in the auction with the ID 18.
+Blaga Ana-Maria has signed up for the auction of the product Wannabe Happy.
+2/4 people have signed up for the auction of the product Wannabe Happy.
+Request for listing the products available for sale from the client Fallon Carrington with the ID 3:
+The furniture Chill Family Vibes with the ID 3 is a/an dining table made of mahogany in 1719 and has the minimum selling price 43.45.
+The painting Wannabe Happy with the ID 4 was painted by Washington Allston with acrylic in 1342 and has the minimum selling price 57.64.
+The painting Dust II with the ID 5 was painted by Washington Allston with oil in 1337 and has the minimum selling price 39.39.
+The painting CS GO with the ID 6 was painted by Boris Anrep with oil in 1244 and has the minimum selling price 93.62.
+The painting Monalisa with the ID 7 was painted by DaVinci with oil in 2000 and has the minimum selling price 1000.0.
+The jewelry Rare ring without gemstone and with the ID 8, is made of steel in 1687 and has the minimum selling price 40.98.
+The jewelry Unique tiara without gemstone and with the ID 9, is made of gold in 1118 and has the minimum selling price 77.97.
+The furniture Mio Bedroom with the ID 10 is a/an bed made of oak in 2001 and has the minimum selling price 1000.0.
+The jewelry Pandora Bracelet with gemstone and and with ID 11 is made of gold in 2001 and has the minimum selling price 300.0.
+The painting Black Mirror with the ID 12 was painted by Fallon Carrington with acrylic in 1610 and has the minimum selling price 68.74.
+The painting Las Centralistas with the ID 13 was painted by Fallon Carrington with acrylic in 1013 and has the minimum selling price 20.33.
+The jewelry Rare ring with gemstone and and with ID 14 is made of steel in 1419 and has the minimum selling price 45.27.
+The furniture Chill Comfy Chair with the ID 15 is a/an chair made of walnut in 1956 and has the minimum selling price 19.4.
+The painting The Window with the ID 16 was painted by Andreea Blaga with acrylic in 1429 and has the minimum selling price 37.28.
+The painting Kara Sevda with the ID 17 was painted by Washington Allston with acrylic in 1728 and has the minimum selling price 54.11.
+The jewelry Pandora Ring with gemstone and and with ID 18 is made of silver in 2009 and has the minimum selling price 600.0.
+Fallon Carrington has signed up for the auction of the product Wannabe Happy.
+3/4 people have signed up for the auction of the product Wannabe Happy.
+Dua Lipa has signed up for the auction of the product Dust II.
+1/5 people have signed up for the auction of the product Dust II.
+The product French style Morning Set with the ID 19 can be bought in the auction with the ID 19.
+The product Unique American style with the ID 20 can be bought in the auction with the ID 20.
+Niall Horan has signed up for the auction of the product Wannabe Happy.
+4/4 people have signed up for the auction of the product Wannabe Happy.
+The auction for the product Wannabe Happy will start now.
+The starting price for the product Wannabe Happy is 8.0.
+Bella Hadid has offered 2741.0 at the set 1 of the auction.
+Blaga Ana-Maria has offered 1639.0 at the set 1 of the auction.
+Fallon Carrington has offered 722.0 at the set 1 of the auction.
+Niall Horan has offered 805.0 at the set 1 of the auction.
+The product Wannabe Happy has, at the end of step 1 of the auction, the price 2741.0.
+Bella Hadid has offered 2741.0 at the set 2 of the auction.
+Blaga Ana-Maria has offered 2855.0 at the set 2 of the auction.
+Fallon Carrington has offered 2748.0 at the set 2 of the auction.
+Niall Horan has offered 805.0 at the set 2 of the auction.
+The product Wannabe Happy has, at the end of step 2 of the auction, the price 2855.0.
+Bella Hadid has offered 2887.0 at the set 3 of the auction.
+Blaga Ana-Maria has offered 2855.0 at the set 3 of the auction.
+Fallon Carrington has offered 3168.0 at the set 3 of the auction.
+Niall Horan has offered 805.0 at the set 3 of the auction.
+The product Wannabe Happy has, at the end of step 3 of the auction, the price 3168.0.
+Bella Hadid has offered 2887.0 at the set 4 of the auction.
+Blaga Ana-Maria has offered 2855.0 at the set 4 of the auction.
+Fallon Carrington has offered 3168.0 at the set 4 of the auction.
+Niall Horan has offered 805.0 at the set 4 of the auction.
+The product Wannabe Happy has, at the end of step 4 of the auction, the price 3168.0.
+Bella Hadid has offered 2887.0 at the set 5 of the auction.
+Blaga Ana-Maria has offered 2855.0 at the set 5 of the auction.
+Fallon Carrington has offered 3168.0 at the set 5 of the auction.
+Niall Horan has offered 805.0 at the set 5 of the auction.
+The product Wannabe Happy has, at the end of step 5 of the auction, the price 3168.0.
+Bella Hadid has offered 2887.0 at the set 6 of the auction.
+Blaga Ana-Maria has offered 2855.0 at the set 6 of the auction.
+Fallon Carrington has offered 3168.0 at the set 6 of the auction.
+Niall Horan has offered 805.0 at the set 6 of the auction.
+The product Wannabe Happy has, at the end of step 6 of the auction, the price 3168.0.
+Bella Hadid has offered 2887.0 at the set 7 of the auction.
+Blaga Ana-Maria has offered 2855.0 at the set 7 of the auction.
+Fallon Carrington has offered 3168.0 at the set 7 of the auction.
+Niall Horan has offered 805.0 at the set 7 of the auction.
+The product Wannabe Happy has, at the end of step 7 of the auction, the price 3168.0.
+Bella Hadid has offered 2887.0 at the set 8 of the auction.
+Blaga Ana-Maria has offered 2855.0 at the set 8 of the auction.
+Fallon Carrington has offered 3168.0 at the set 8 of the auction.
+Niall Horan has offered 805.0 at the set 8 of the auction.
+The product Wannabe Happy has, at the end of step 8 of the auction, the price 3168.0.
+Bella Hadid has offered 2887.0 at the set 9 of the auction.
+Blaga Ana-Maria has offered 2855.0 at the set 9 of the auction.
+Fallon Carrington has offered 3168.0 at the set 9 of the auction.
+Niall Horan has offered 805.0 at the set 9 of the auction.
+The product Wannabe Happy has, at the end of step 9 of the auction, the price 3168.0.
+Bella Hadid has offered 2887.0 at the set 10 of the auction.
+Blaga Ana-Maria has offered 2855.0 at the set 10 of the auction.
+Fallon Carrington has offered 3168.0 at the set 10 of the auction.
+Niall Horan has offered 805.0 at the set 10 of the auction.
+The product Wannabe Happy has, at the end of step 10 of the auction, the price 3168.0.
+Bella Hadid has offered 2887.0 at the set 11 of the auction.
+Blaga Ana-Maria has offered 2855.0 at the set 11 of the auction.
+Fallon Carrington has offered 3168.0 at the set 11 of the auction.
+Niall Horan has offered 805.0 at the set 11 of the auction.
+The product Wannabe Happy has, at the end of step 11 of the auction, the price 3168.0.
+Bella Hadid has offered 2887.0 at the set 12 of the auction.
+Blaga Ana-Maria has offered 2855.0 at the set 12 of the auction.
+Fallon Carrington has offered 3168.0 at the set 12 of the auction.
+Niall Horan has offered 805.0 at the set 12 of the auction.
+The product Wannabe Happy has, at the end of step 12 of the auction, the price 3168.0.
+The product Wannabe Happy has been sold for 3168.0.
+Niall Horan has signed up for the auction of the product Chill Family Vibes.
+2/3 people have signed up for the auction of the product Chill Family Vibes.
+Dua Lipa has signed up for the auction of the product Chill Family Vibes.
+3/3 people have signed up for the auction of the product Chill Family Vibes.
+The auction for the product Chill Family Vibes will start now.
+The starting price for the product Chill Family Vibes is 6.0.
+Blaga Ana-Maria has offered 48.0 at the set 1 of the auction.
+Niall Horan has offered 632.0 at the set 1 of the auction.
+Dua Lipa has offered 273.0 at the set 1 of the auction.
+The product Chill Family Vibes has, at the end of step 1 of the auction, the price 632.0.
+Blaga Ana-Maria has offered 48.0 at the set 2 of the auction.
+Niall Horan has offered 632.0 at the set 2 of the auction.
+Dua Lipa has offered 711.0 at the set 2 of the auction.
+The product Chill Family Vibes has, at the end of step 2 of the auction, the price 711.0.
+Blaga Ana-Maria has offered 48.0 at the set 3 of the auction.
+Niall Horan has offered 864.0 at the set 3 of the auction.
+Dua Lipa has offered 711.0 at the set 3 of the auction.
+The product Chill Family Vibes has, at the end of step 3 of the auction, the price 864.0.
+Blaga Ana-Maria has offered 48.0 at the set 4 of the auction.
+Niall Horan has offered 864.0 at the set 4 of the auction.
+Dua Lipa has offered 711.0 at the set 4 of the auction.
+The product Chill Family Vibes has, at the end of step 4 of the auction, the price 864.0.
+Blaga Ana-Maria has offered 48.0 at the set 5 of the auction.
+Niall Horan has offered 864.0 at the set 5 of the auction.
+Dua Lipa has offered 711.0 at the set 5 of the auction.
+The product Chill Family Vibes has, at the end of step 5 of the auction, the price 864.0.
+Blaga Ana-Maria has offered 48.0 at the set 6 of the auction.
+Niall Horan has offered 864.0 at the set 6 of the auction.
+Dua Lipa has offered 711.0 at the set 6 of the auction.
+The product Chill Family Vibes has, at the end of step 6 of the auction, the price 864.0.
+Blaga Ana-Maria has offered 48.0 at the set 7 of the auction.
+Niall Horan has offered 864.0 at the set 7 of the auction.
+Dua Lipa has offered 711.0 at the set 7 of the auction.
+The product Chill Family Vibes has, at the end of step 7 of the auction, the price 864.0.
+Blaga Ana-Maria has offered 48.0 at the set 8 of the auction.
+Niall Horan has offered 864.0 at the set 8 of the auction.
+Dua Lipa has offered 711.0 at the set 8 of the auction.
+The product Chill Family Vibes has, at the end of step 8 of the auction, the price 864.0.
+Blaga Ana-Maria has offered 48.0 at the set 9 of the auction.
+Niall Horan has offered 864.0 at the set 9 of the auction.
+Dua Lipa has offered 711.0 at the set 9 of the auction.
+The product Chill Family Vibes has, at the end of step 9 of the auction, the price 864.0.
+Blaga Ana-Maria has offered 48.0 at the set 10 of the auction.
+Niall Horan has offered 864.0 at the set 10 of the auction.
+Dua Lipa has offered 711.0 at the set 10 of the auction.
+The product Chill Family Vibes has, at the end of step 10 of the auction, the price 864.0.
+Blaga Ana-Maria has offered 48.0 at the set 11 of the auction.
+Niall Horan has offered 864.0 at the set 11 of the auction.
+Dua Lipa has offered 711.0 at the set 11 of the auction.
+The product Chill Family Vibes has, at the end of step 11 of the auction, the price 864.0.
+Blaga Ana-Maria has offered 48.0 at the set 12 of the auction.
+Niall Horan has offered 864.0 at the set 12 of the auction.
+Dua Lipa has offered 711.0 at the set 12 of the auction.
+The product Chill Family Vibes has, at the end of step 12 of the auction, the price 864.0.
+Blaga Ana-Maria has offered 48.0 at the set 13 of the auction.
+Niall Horan has offered 864.0 at the set 13 of the auction.
+Dua Lipa has offered 711.0 at the set 13 of the auction.
+The product Chill Family Vibes has, at the end of step 13 of the auction, the price 864.0.
+Blaga Ana-Maria has offered 48.0 at the set 14 of the auction.
+Niall Horan has offered 864.0 at the set 14 of the auction.
+Dua Lipa has offered 711.0 at the set 14 of the auction.
+The product Chill Family Vibes has, at the end of step 14 of the auction, the price 864.0.
+Blaga Ana-Maria has offered 48.0 at the set 15 of the auction.
+Niall Horan has offered 864.0 at the set 15 of the auction.
+Dua Lipa has offered 711.0 at the set 15 of the auction.
+The product Chill Family Vibes has, at the end of step 15 of the auction, the price 864.0.
+Blaga Ana-Maria has offered 48.0 at the set 16 of the auction.
+Niall Horan has offered 864.0 at the set 16 of the auction.
+Dua Lipa has offered 711.0 at the set 16 of the auction.
+The product Chill Family Vibes has, at the end of step 16 of the auction, the price 864.0.
+The product Chill Family Vibes has been sold for 864.0.
+Fallon Carrington has signed up for the auction of the product Chill Comfy Chair.
+1/3 people have signed up for the auction of the product Chill Comfy Chair.
+Request for listing the products available for sale from the client Niall Horan with the ID 4:
+The painting Dust II with the ID 5 was painted by Washington Allston with oil in 1337 and has the minimum selling price 39.39.
+The painting CS GO with the ID 6 was painted by Boris Anrep with oil in 1244 and has the minimum selling price 93.62.
+The painting Monalisa with the ID 7 was painted by DaVinci with oil in 2000 and has the minimum selling price 1000.0.
+The jewelry Rare ring without gemstone and with the ID 8, is made of steel in 1687 and has the minimum selling price 40.98.
+The jewelry Unique tiara without gemstone and with the ID 9, is made of gold in 1118 and has the minimum selling price 77.97.
+The furniture Mio Bedroom with the ID 10 is a/an bed made of oak in 2001 and has the minimum selling price 1000.0.
+The jewelry Pandora Bracelet with gemstone and and with ID 11 is made of gold in 2001 and has the minimum selling price 300.0.
+The painting Black Mirror with the ID 12 was painted by Fallon Carrington with acrylic in 1610 and has the minimum selling price 68.74.
+The painting Las Centralistas with the ID 13 was painted by Fallon Carrington with acrylic in 1013 and has the minimum selling price 20.33.
+The jewelry Rare ring with gemstone and and with ID 14 is made of steel in 1419 and has the minimum selling price 45.27.
+The furniture Chill Comfy Chair with the ID 15 is a/an chair made of walnut in 1956 and has the minimum selling price 19.4.
+The painting The Window with the ID 16 was painted by Andreea Blaga with acrylic in 1429 and has the minimum selling price 37.28.
+The painting Kara Sevda with the ID 17 was painted by Washington Allston with acrylic in 1728 and has the minimum selling price 54.11.
+The jewelry Pandora Ring with gemstone and and with ID 18 is made of silver in 2009 and has the minimum selling price 600.0.
+The furniture French style Morning Set with the ID 19 is a/an make-up table made of birch in 1929 and has the minimum selling price 20.72.
+The furniture Unique American style with the ID 20 is a/an chair made of pine in 1988 and has the minimum selling price 62.52.

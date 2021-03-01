@@ -1,0 +1,41 @@
+addProduct Jewelry "bracelet" 1160 56.29 "copper" true 11 2
+addProduct Painting "Nunta in cer" 1879 53.97 "Ariana Grande" acrylic 13 6
+addProduct Painting "Astronomul" 1607 87.08 "Josef Albers" oil 18 7
+addProduct Painting "Infernul lui Dante" 1321 45.12 "Andreea Blaga" acrylic 21 10
+addProduct Jewelry "tiara" 1144 97.73 "copper" false 11 3
+addProduct Painting "Wedding" 1962 24.21 "Fallon Carrington" oil 12 2
+addProduct Painting "Donald Duck" 1528 1.58 "Josef Albers" acrylic 6 8
+addProduct Painting "Wannabe" 1884 99.12 "Mickey Mouse" tempera 13 4
+addProduct Painting "The Long Night" 1888 65.29 "Washington Allston" tempera 5 2
+addProduct Jewelry "Unique tiara" 1118 77.97 "gold" false 12 3
+addProduct Furniture "Mio Bedroom" 2001 1000.00 bed oak 10 4
+addProduct Painting "Vrajitoarea" 1247 96.71 "Ariana Grande" tempera 19 6
+addProduct Furniture "Chill" 1684 52.45 "desk" cherry 18 2
+addProduct Painting "Scribul" 1712 89.91 "Andreea Blaga" oil 10 2
+addProduct Painting "Ion" 1209 29.42 "Fallon Carrington" tempera 12 4
+addBrokers 15
+addProduct Jewelry "necklace" 1711 52.19 "steel" false 11 6
+addProduct Painting "Me Gusta" 1987 90.09 "Washington Allston" tempera 10 6
+addClient LegalPerson "Liam Payne" LiamPayne-757512257@gmail.com SA 31162.083220587007
+listProducts 1
+addProduct Painting "Shakira" 1993 33.62 "Mickey Mouse" acrylic 12 2
+addProduct Painting "Korean Girl" 1407 9.24 "Velasquez" tempera 3 9
+addProduct Painting "Star Wars" 1606 54.74 "Washington Allston" acrylic 17 4
+addClient LegalPerson "Albert Beto" AlbertBeto-1123375526@gmail.com SRL 11986.297123697024
+addClient NaturalPerson "Fallon Carrington" FallonCarrington-931322090@gmail.com 08/01/1970
+requestSignUpForAuction 3 5 120.00
+requestSignUpForAuction 2 6 133.00
+requestSignUpForAuction 1 9 154.00
+addClient LegalPerson "Liam Swayne" LiamSwayne299074058@gmail.com SA 51900.91865754838
+addClient LegalPerson "Louis Tomlinson" LouisTomlinson-1282766702@gmail.com SA 8697.31898059
+addClient NaturalPerson "Bethany Mota" BethanyMota1816784754@gmail.com 25/10/1972
+addClient LegalPerson "Albert Masca" AlbertMasca675613521@gmail.com SA 68901.69
+addClient NaturalPerson "Louis Tomlinson" LouisTomlinson209921823@gmail.com 08/06/1973
+requestSignUpForAuction 5 1 156.00
+requestSignUpForAuction 6 5 121.99
+requestSignUpForAuction 5 16 165.00
+requestSignUpForAuction 1 2 143.00
+requestSignUpForAuction 6 6 123.00
+requestSignUpForAuction 3 9 165.00
+requestSignUpForAuction 3 1 160.50
+requestSignUpForAuction 4 5 124.00

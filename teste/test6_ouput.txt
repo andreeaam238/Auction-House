@@ -1,0 +1,201 @@
+Welcome to the Online Auction House!
+The admin has connected.
+The product Break free with the ID 1 can be bought in the auction with the ID 1.
+The product Floarea soarelui with the ID 2 can be bought in the auction with the ID 2.
+The product Carul cu boi with the ID 3 can be bought in the auction with the ID 3.
+The product tiara with the ID 4 can be bought in the auction with the ID 4.
+The product necklace with the ID 5 can be bought in the auction with the ID 5.
+The product Vrajitoarea with the ID 6 can be bought in the auction with the ID 6.
+The product Chill with the ID 7 can be bought in the auction with the ID 7.
+The product Scribul with the ID 8 can be bought in the auction with the ID 8.
+The product necklace with the ID 9 can be bought in the auction with the ID 9.
+The product Carul cu boi with the ID 10 can be bought in the auction with the ID 10.
+The product Wow with the ID 11 can be bought in the auction with the ID 11.
+The product necklace with the ID 12 can be bought in the auction with the ID 12.
+The product earrings with the ID 13 can be bought in the auction with the ID 13.
+The product Fata cu cercel de perla with the ID 14 can be bought in the auction with the ID 14.
+The product Autoportret with the ID 15 can be bought in the auction with the ID 15.
+The product Romanian with the ID 16 can be bought in the auction with the ID 16.
+The product bracelet with the ID 17 can be bought in the auction with the ID 17.
+The product tiara with the ID 18 can be bought in the auction with the ID 18.
+The product Ion with the ID 19 can be bought in the auction with the ID 19.
+The product Wow with the ID 20 can be bought in the auction with the ID 20.
+17 new brokers have been employed by the auction house.
+Dinero Tengo has joined the online auction system with the client ID 1.
+Mara AD has joined the online auction system with the client ID 2.
+Lian Spayne has joined the online auction system with the client ID 3.
+Louis Tomlinson has joined the online auction system with the client ID 4.
+Fallon Carrington has joined the online auction system with the client ID 5.
+Liam Payne has joined the online auction system with the client ID 6.
+Request for listing the products available for sale from the client Mara AD with the ID 2:
+The painting Break free with the ID 1 was painted by Andreea Blaga with acrylic in 1504 and has the minimum selling price 85.34.
+The painting Floarea soarelui with the ID 2 was painted by Corneliu Baba with acrylic in 1197 and has the minimum selling price 34.26.
+The painting Carul cu boi with the ID 3 was painted by Corneliu Baba with oil in 1983 and has the minimum selling price 66.57.
+The jewelry tiara without gemstone and with the ID 4, is made of copper in 1992 and has the minimum selling price 2.33.
+The jewelry necklace without gemstone and with the ID 5, is made of copper in 1066 and has the minimum selling price 53.55.
+The painting Vrajitoarea with the ID 6 was painted by Ariana Grande with tempera in 1247 and has the minimum selling price 96.71.
+The furniture Chill with the ID 7 is a/an desk made of cherry in 1684 and has the minimum selling price 52.45.
+The painting Scribul with the ID 8 was painted by Andreea Blaga with oil in 1712 and has the minimum selling price 89.91.
+The jewelry necklace without gemstone and with the ID 9, is made of silver in 1977 and has the minimum selling price 43.24.
+The painting Carul cu boi with the ID 10 was painted by Vincent Van Gogh with oil in 1324 and has the minimum selling price 64.64.
+The furniture Wow with the ID 11 is a/an table made of birch in 1409 and has the minimum selling price 27.85.
+The jewelry necklace with gemstone and and with ID 12 is made of gold in 1316 and has the minimum selling price 42.7.
+The jewelry earrings without gemstone and with the ID 13, is made of gold in 1553 and has the minimum selling price 5.59.
+The painting Fata cu cercel de perla with the ID 14 was painted by Andreea Blaga with tempera in 1804 and has the minimum selling price 52.16.
+The painting Autoportret with the ID 15 was painted by Velasquez with acrylic in 1247 and has the minimum selling price 33.08.
+The furniture Romanian with the ID 16 is a/an chair made of mahogany in 1983 and has the minimum selling price 68.92.
+The jewelry bracelet with gemstone and and with ID 17 is made of gold in 1434 and has the minimum selling price 14.64.
+The jewelry tiara without gemstone and with the ID 18, is made of gold in 1228 and has the minimum selling price 1.01.
+The painting Ion with the ID 19 was painted by Josef Albers with acrylic in 1988 and has the minimum selling price 50.79.
+The furniture Wow with the ID 20 is a/an wardrobe made of birch in 1864 and has the minimum selling price 94.37.
+Mara AD has signed up for the auction of the product Floarea soarelui.
+1/2 people have signed up for the auction of the product Floarea soarelui.
+Lian Spayne has signed up for the auction of the product Chill.
+1/2 people have signed up for the auction of the product Chill.
+Dinero Tengo has signed up for the auction of the product Carul cu boi.
+1/3 people have signed up for the auction of the product Carul cu boi.
+Mara AD has signed up for the auction of the product Wow.
+1/2 people have signed up for the auction of the product Wow.
+Lian Spayne has signed up for the auction of the product Floarea soarelui.
+2/2 people have signed up for the auction of the product Floarea soarelui.
+The auction for the product Floarea soarelui will start now.
+The starting price for the product Floarea soarelui is 3.0.
+Mara AD has offered 37.0 at the set 1 of the auction.
+Lian Spayne has offered 92.0 at the set 1 of the auction.
+The product Floarea soarelui has, at the end of step 1 of the auction, the price 92.0.
+Mara AD has offered 98.0 at the set 2 of the auction.
+Lian Spayne has offered 92.0 at the set 2 of the auction.
+The product Floarea soarelui has, at the end of step 2 of the auction, the price 98.0.
+Mara AD has offered 98.0 at the set 3 of the auction.
+Lian Spayne has offered 106.0 at the set 3 of the auction.
+The product Floarea soarelui has, at the end of step 3 of the auction, the price 106.0.
+Mara AD has offered 98.0 at the set 4 of the auction.
+Lian Spayne has offered 106.0 at the set 4 of the auction.
+The product Floarea soarelui has, at the end of step 4 of the auction, the price 106.0.
+Mara AD has offered 98.0 at the set 5 of the auction.
+Lian Spayne has offered 106.0 at the set 5 of the auction.
+The product Floarea soarelui has, at the end of step 5 of the auction, the price 106.0.
+Mara AD has offered 98.0 at the set 6 of the auction.
+Lian Spayne has offered 106.0 at the set 6 of the auction.
+The product Floarea soarelui has, at the end of step 6 of the auction, the price 106.0.
+Mara AD has offered 98.0 at the set 7 of the auction.
+Lian Spayne has offered 106.0 at the set 7 of the auction.
+The product Floarea soarelui has, at the end of step 7 of the auction, the price 106.0.
+Mara AD has offered 98.0 at the set 8 of the auction.
+Lian Spayne has offered 106.0 at the set 8 of the auction.
+The product Floarea soarelui has, at the end of step 8 of the auction, the price 106.0.
+Mara AD has offered 98.0 at the set 9 of the auction.
+Lian Spayne has offered 106.0 at the set 9 of the auction.
+The product Floarea soarelui has, at the end of step 9 of the auction, the price 106.0.
+Mara AD has offered 98.0 at the set 10 of the auction.
+Lian Spayne has offered 106.0 at the set 10 of the auction.
+The product Floarea soarelui has, at the end of step 10 of the auction, the price 106.0.
+Mara AD has offered 98.0 at the set 11 of the auction.
+Lian Spayne has offered 106.0 at the set 11 of the auction.
+The product Floarea soarelui has, at the end of step 11 of the auction, the price 106.0.
+Mara AD has offered 98.0 at the set 12 of the auction.
+Lian Spayne has offered 106.0 at the set 12 of the auction.
+The product Floarea soarelui has, at the end of step 12 of the auction, the price 106.0.
+Mara AD has offered 98.0 at the set 13 of the auction.
+Lian Spayne has offered 106.0 at the set 13 of the auction.
+The product Floarea soarelui has, at the end of step 13 of the auction, the price 106.0.
+The product Floarea soarelui has been sold for 106.0.
+Dinero Tengo has signed up for the auction of the product Chill.
+2/2 people have signed up for the auction of the product Chill.
+The auction for the product Chill will start now.
+The starting price for the product Chill is 27.0.
+Lian Spayne has offered 95.0 at the set 1 of the auction.
+Dinero Tengo has offered 101.0 at the set 1 of the auction.
+The product Chill has, at the end of step 1 of the auction, the price 101.0.
+Lian Spayne has offered 105.0 at the set 2 of the auction.
+Dinero Tengo has offered 101.0 at the set 2 of the auction.
+The product Chill has, at the end of step 2 of the auction, the price 105.0.
+Lian Spayne has offered 105.0 at the set 3 of the auction.
+Dinero Tengo has offered 113.0 at the set 3 of the auction.
+The product Chill has, at the end of step 3 of the auction, the price 113.0.
+Lian Spayne has offered 118.0 at the set 4 of the auction.
+Dinero Tengo has offered 113.0 at the set 4 of the auction.
+The product Chill has, at the end of step 4 of the auction, the price 118.0.
+Lian Spayne has offered 118.0 at the set 5 of the auction.
+Dinero Tengo has offered 123.0 at the set 5 of the auction.
+The product Chill has, at the end of step 5 of the auction, the price 123.0.
+Lian Spayne has offered 118.0 at the set 6 of the auction.
+Dinero Tengo has offered 123.0 at the set 6 of the auction.
+The product Chill has, at the end of step 6 of the auction, the price 123.0.
+Lian Spayne has offered 118.0 at the set 7 of the auction.
+Dinero Tengo has offered 123.0 at the set 7 of the auction.
+The product Chill has, at the end of step 7 of the auction, the price 123.0.
+Lian Spayne has offered 118.0 at the set 8 of the auction.
+Dinero Tengo has offered 123.0 at the set 8 of the auction.
+The product Chill has, at the end of step 8 of the auction, the price 123.0.
+Lian Spayne has offered 118.0 at the set 9 of the auction.
+Dinero Tengo has offered 123.0 at the set 9 of the auction.
+The product Chill has, at the end of step 9 of the auction, the price 123.0.
+Lian Spayne has offered 118.0 at the set 10 of the auction.
+Dinero Tengo has offered 123.0 at the set 10 of the auction.
+The product Chill has, at the end of step 10 of the auction, the price 123.0.
+Lian Spayne has offered 118.0 at the set 11 of the auction.
+Dinero Tengo has offered 123.0 at the set 11 of the auction.
+The product Chill has, at the end of step 11 of the auction, the price 123.0.
+Lian Spayne has offered 118.0 at the set 12 of the auction.
+Dinero Tengo has offered 123.0 at the set 12 of the auction.
+The product Chill has, at the end of step 12 of the auction, the price 123.0.
+Lian Spayne has offered 118.0 at the set 13 of the auction.
+Dinero Tengo has offered 123.0 at the set 13 of the auction.
+The product Chill has, at the end of step 13 of the auction, the price 123.0.
+Lian Spayne has offered 118.0 at the set 14 of the auction.
+Dinero Tengo has offered 123.0 at the set 14 of the auction.
+The product Chill has, at the end of step 14 of the auction, the price 123.0.
+Lian Spayne has offered 118.0 at the set 15 of the auction.
+Dinero Tengo has offered 123.0 at the set 15 of the auction.
+The product Chill has, at the end of step 15 of the auction, the price 123.0.
+Lian Spayne has offered 118.0 at the set 16 of the auction.
+Dinero Tengo has offered 123.0 at the set 16 of the auction.
+The product Chill has, at the end of step 16 of the auction, the price 123.0.
+Lian Spayne has offered 118.0 at the set 17 of the auction.
+Dinero Tengo has offered 123.0 at the set 17 of the auction.
+The product Chill has, at the end of step 17 of the auction, the price 123.0.
+Lian Spayne has offered 118.0 at the set 18 of the auction.
+Dinero Tengo has offered 123.0 at the set 18 of the auction.
+The product Chill has, at the end of step 18 of the auction, the price 123.0.
+The product Chill has been sold for 123.0.
+Fallon Carrington has signed up for the auction of the product Carul cu boi.
+2/3 people have signed up for the auction of the product Carul cu boi.
+Lian Spayne has signed up for the auction of the product Wow.
+2/2 people have signed up for the auction of the product Wow.
+The auction for the product Wow will start now.
+The starting price for the product Wow is 14.0.
+Mara AD has offered 41.0 at the set 1 of the auction.
+Lian Spayne has offered 71.0 at the set 1 of the auction.
+The product Wow has, at the end of step 1 of the auction, the price 71.0.
+Mara AD has offered 98.0 at the set 2 of the auction.
+Lian Spayne has offered 71.0 at the set 2 of the auction.
+The product Wow has, at the end of step 2 of the auction, the price 98.0.
+Mara AD has offered 98.0 at the set 3 of the auction.
+Lian Spayne has offered 108.0 at the set 3 of the auction.
+The product Wow has, at the end of step 3 of the auction, the price 108.0.
+Mara AD has offered 109.0 at the set 4 of the auction.
+Lian Spayne has offered 108.0 at the set 4 of the auction.
+The product Wow has, at the end of step 4 of the auction, the price 109.0.
+The product Wow has been sold for 109.0.
+Lian Spayne has signed up for the auction of the product Carul cu boi.
+3/3 people have signed up for the auction of the product Carul cu boi.
+The auction for the product Carul cu boi will start now.
+The starting price for the product Carul cu boi is 2.0.
+Dinero Tengo has offered 21.0 at the set 1 of the auction.
+Fallon Carrington has offered 181.0 at the set 1 of the auction.
+Lian Spayne has offered 21.0 at the set 1 of the auction.
+The product Carul cu boi has, at the end of step 1 of the auction, the price 181.0.
+Dinero Tengo has offered 196.0 at the set 2 of the auction.
+Fallon Carrington has offered 181.0 at the set 2 of the auction.
+Lian Spayne has offered 191.0 at the set 2 of the auction.
+The product Carul cu boi has, at the end of step 2 of the auction, the price 196.0.
+Dinero Tengo has offered 196.0 at the set 3 of the auction.
+Fallon Carrington has offered 207.0 at the set 3 of the auction.
+Lian Spayne has offered 209.0 at the set 3 of the auction.
+The product Carul cu boi has, at the end of step 3 of the auction, the price 209.0.
+Dinero Tengo has offered 196.0 at the set 4 of the auction.
+Fallon Carrington has offered 219.0 at the set 4 of the auction.
+Lian Spayne has offered 209.0 at the set 4 of the auction.
+The product Carul cu boi has, at the end of step 4 of the auction, the price 219.0.
+The product Carul cu boi has been sold for 219.0.

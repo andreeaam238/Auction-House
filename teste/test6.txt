@@ -1,0 +1,37 @@
+addProduct Painting "Break free" 1504 85.34 "Andreea Blaga" acrylic 10 2
+addProduct Painting "Floarea soarelui" 1197 34.26 "Corneliu Baba" acrylic 13 2
+addProduct Painting "Carul cu boi" 1983 66.57 "Corneliu Baba" oil 14 5
+addProduct Jewelry "tiara" 1992 2.33 "copper" false 17 5
+addProduct Jewelry "necklace" 1066 53.55 "copper" false 25 3
+addProduct Painting "Vrajitoarea" 1247 96.71 "Ariana Grande" tempera 19 6
+addProduct Furniture "Chill" 1684 52.45 "desk" cherry 18 2
+addProduct Painting "Scribul" 1712 89.91 "Andreea Blaga" oil 19 3
+addProduct Jewelry "necklace" 1977 43.24 "silver" false 21 3
+addProduct Painting "Carul cu boi" 1324 64.64 "Vincent Van Gogh" oil 4 3
+addProduct Furniture "Wow" 1409 27.85 "table" birch 4 2
+addProduct Jewelry "necklace" 1316 42.7 "gold" true 11 2
+addProduct Jewelry "earrings" 1553 5.59 "gold" false 10 2
+addProduct Painting "Fata cu cercel de perla" 1804 52.16 "Andreea Blaga" tempera 17 4
+addProduct Painting "Autoportret" 1247 33.08 "Velasquez" acrylic 5 3
+addProduct Furniture "Romanian" 1983 68.92 "chair" mahogany 14 4
+addProduct Jewelry "bracelet" 1434 14.64 "gold" true 13 2
+addProduct Jewelry "tiara" 1228 1.01 "gold" false 16 2
+addProduct Painting "Ion" 1988 50.79 "Josef Albers" acrylic 19 4
+addProduct Furniture "Wow" 1864 94.37 "wardrobe" birch 19 5
+addBrokers 17
+addClient NaturalPerson "Dinero Tengo" dineroTango-1014572956@gmail.com 16/09/1970
+addClient LegalPerson "Mara AD" MaraAD-255564948@gmail.com SRL 8475.303181646786
+addClient LegalPerson "Lian Spayne" LianSpayne299074058@gmail.com SA 51900.91865754838
+addClient LegalPerson "Louis Tomlinson" LouisTomlinson-1282766702@gmail.com SA 8697.31898059552
+addClient NaturalPerson "Fallon Carrington" FallonCarrington-931322090@gmail.com 08/01/1970
+addClient LegalPerson "Liam Payne" LiamPayne-757512257@gmail.com SA 31162.083220587007
+listProducts 2
+requestSignUpForAuction 2 2 100.00
+requestSignUpForAuction 3 7 120.00
+requestSignUpForAuction 1 10 200.00
+requestSignUpForAuction 2 11 109.00
+requestSignUpForAuction 3 2 110.00
+requestSignUpForAuction 1 7 130.00
+requestSignUpForAuction 5 10 224.00
+requestSignUpForAuction 3 11 111.00
+requestSignUpForAuction 3 10 236.00

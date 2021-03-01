@@ -1,0 +1,187 @@
+Welcome to the Online Auction House!
+The admin has connected.
+22 new brokers have been employed by the auction house.
+The product Limited Edition with the ID 1 can be bought in the auction with the ID 1.
+The product necklace with the ID 2 can be bought in the auction with the ID 2.
+The product necklace with the ID 3 can be bought in the auction with the ID 3.
+The product Limited Edition with the ID 4 can be bought in the auction with the ID 4.
+The product Ghicitoarea with the ID 5 can be bought in the auction with the ID 5.
+The product Vizita with the ID 6 can be bought in the auction with the ID 6.
+The product Fata cu cercel de perla with the ID 7 can be bought in the auction with the ID 7.
+The product Rare with the ID 8 can be bought in the auction with the ID 8.
+The product tiara with the ID 9 can be bought in the auction with the ID 9.
+The product tiara with the ID 10 can be bought in the auction with the ID 10.
+The product Such Wow Desk with the ID 11 can be bought in the auction with the ID 11.
+The product earrings with the ID 12 can be bought in the auction with the ID 12.
+The product Hairbrush with the ID 13 can be bought in the auction with the ID 13.
+The product Luke Skywalker with the ID 14 can be bought in the auction with the ID 14.
+The product Dancers with the ID 15 can be bought in the auction with the ID 15.
+The product Starry Night with the ID 16 can be bought in the auction with the ID 16.
+The product Unique with the ID 17 can be bought in the auction with the ID 17.
+The product necklace with the ID 18 can be bought in the auction with the ID 18.
+The product Carul cu boi with the ID 19 can be bought in the auction with the ID 19.
+The product Vacanta mare with the ID 20 can be bought in the auction with the ID 20.
+The product Ion with the ID 21 can be bought in the auction with the ID 21.
+Dinero Tengo has joined the online auction system with the client ID 1.
+Dinero Tengo has signed up for the auction of the product Limited Edition.
+1/3 people have signed up for the auction of the product Limited Edition.
+Mara AD has joined the online auction system with the client ID 2.
+Mara AD has signed up for the auction of the product Limited Edition.
+2/3 people have signed up for the auction of the product Limited Edition.
+Lian Spayne has joined the online auction system with the client ID 3.
+Lian Spayne has signed up for the auction of the product Limited Edition.
+3/3 people have signed up for the auction of the product Limited Edition.
+The auction for the product Limited Edition will start now.
+The starting price for the product Limited Edition is 14.0.
+Dinero Tengo has offered 64.0 at the set 1 of the auction.
+Mara AD has offered 120.0 at the set 1 of the auction.
+Lian Spayne has offered 151.0 at the set 1 of the auction.
+The product Limited Edition has, at the end of step 1 of the auction, the price 151.0.
+Dinero Tengo has offered 154.0 at the set 2 of the auction.
+Mara AD has offered 192.0 at the set 2 of the auction.
+Lian Spayne has offered 151.0 at the set 2 of the auction.
+The product Limited Edition has, at the end of step 2 of the auction, the price 192.0.
+Dinero Tengo has offered 193.0 at the set 3 of the auction.
+Mara AD has offered 192.0 at the set 3 of the auction.
+Lian Spayne has offered 151.0 at the set 3 of the auction.
+The product Limited Edition has, at the end of step 3 of the auction, the price 193.0.
+Dinero Tengo has offered 193.0 at the set 4 of the auction.
+Mara AD has offered 194.0 at the set 4 of the auction.
+Lian Spayne has offered 151.0 at the set 4 of the auction.
+The product Limited Edition has, at the end of step 4 of the auction, the price 194.0.
+Dinero Tengo has offered 197.0 at the set 5 of the auction.
+Mara AD has offered 194.0 at the set 5 of the auction.
+Lian Spayne has offered 151.0 at the set 5 of the auction.
+The product Limited Edition has, at the end of step 5 of the auction, the price 197.0.
+The product Limited Edition has been sold for 197.0.
+Louis Tomlinson has joined the online auction system with the client ID 4.
+Fallon Carrington has joined the online auction system with the client ID 5.
+Liam Payne has joined the online auction system with the client ID 6.
+Request for listing the products available for sale from the client Louis Tomlinson with the ID 4:
+The jewelry necklace with gemstone and and with ID 2 is made of gold in 1693 and has the minimum selling price 9.49.
+The jewelry necklace without gemstone and with the ID 3, is made of gold in 1446 and has the minimum selling price 30.97.
+The furniture Limited Edition with the ID 4 is a/an bed made of cherry in 1027 and has the minimum selling price 44.31.
+The painting Ghicitoarea with the ID 5 was painted by Anakin Skywalker with oil in 1083 and has the minimum selling price 10.77.
+The painting Vizita with the ID 6 was painted by Horia Bernea with oil in 1513 and has the minimum selling price 16.78.
+The painting Fata cu cercel de perla with the ID 7 was painted by Washington Allston with oil in 1205 and has the minimum selling price 2.68.
+The furniture Rare with the ID 8 is a/an desk made of mahogany in 1869 and has the minimum selling price 56.15.
+The jewelry tiara with gemstone and and with ID 9 is made of copper in 1957 and has the minimum selling price 26.78.
+The jewelry tiara with gemstone and and with ID 10 is made of silver in 1576 and has the minimum selling price 43.69.
+The furniture Such Wow Desk with the ID 11 is a/an desk made of oak in 1072 and has the minimum selling price 93.88.
+The jewelry earrings with gemstone and and with ID 12 is made of copper in 1387 and has the minimum selling price 54.4.
+The painting Hairbrush with the ID 13 was painted by Alessandro Allori with oil in 1707 and has the minimum selling price 1.63.
+The painting Luke Skywalker with the ID 14 was painted by Anakin Skywalker with tempera in 1349 and has the minimum selling price 21.47.
+The painting Dancers with the ID 15 was painted by Alessandro Allori with tempera in 1275 and has the minimum selling price 65.55.
+The painting Starry Night with the ID 16 was painted by Josef Albers with acrylic in 1846 and has the minimum selling price 11.06.
+The furniture Unique with the ID 17 is a/an table made of bamboo in 1756 and has the minimum selling price 71.72.
+The jewelry necklace without gemstone and with the ID 18, is made of silver in 1868 and has the minimum selling price 75.63.
+The painting Carul cu boi with the ID 19 was painted by Washington Allston with oil in 1944 and has the minimum selling price 18.44.
+The painting Vacanta mare with the ID 20 was painted by Stefan Luchian with acrylic in 1289 and has the minimum selling price 77.81.
+The painting Ion with the ID 21 was painted by Fallon Carrington with tempera in 1209 and has the minimum selling price 29.42.
+Louis Tomlinson has signed up for the auction of the product necklace.
+1/3 people have signed up for the auction of the product necklace.
+Lian Spayne has signed up for the auction of the product necklace.
+2/3 people have signed up for the auction of the product necklace.
+Dinero Tengo has signed up for the auction of the product Fata cu cercel de perla.
+1/2 people have signed up for the auction of the product Fata cu cercel de perla.
+Fallon Carrington has signed up for the auction of the product Vizita.
+1/2 people have signed up for the auction of the product Vizita.
+Lian Spayne has signed up for the auction of the product Vizita.
+2/2 people have signed up for the auction of the product Vizita.
+The auction for the product Vizita will start now.
+The starting price for the product Vizita is 7.0.
+Fallon Carrington has offered 159.0 at the set 1 of the auction.
+Lian Spayne has offered 143.0 at the set 1 of the auction.
+The product Vizita has, at the end of step 1 of the auction, the price 159.0.
+Fallon Carrington has offered 159.0 at the set 2 of the auction.
+Lian Spayne has offered 199.0 at the set 2 of the auction.
+The product Vizita has, at the end of step 2 of the auction, the price 199.0.
+Fallon Carrington has offered 159.0 at the set 3 of the auction.
+Lian Spayne has offered 199.0 at the set 3 of the auction.
+The product Vizita has, at the end of step 3 of the auction, the price 199.0.
+Fallon Carrington has offered 159.0 at the set 4 of the auction.
+Lian Spayne has offered 199.0 at the set 4 of the auction.
+The product Vizita has, at the end of step 4 of the auction, the price 199.0.
+Fallon Carrington has offered 159.0 at the set 5 of the auction.
+Lian Spayne has offered 199.0 at the set 5 of the auction.
+The product Vizita has, at the end of step 5 of the auction, the price 199.0.
+The product Vizita has been sold for 199.0.
+Lian Spayne has signed up for the auction of the product Fata cu cercel de perla.
+2/2 people have signed up for the auction of the product Fata cu cercel de perla.
+The auction for the product Fata cu cercel de perla will start now.
+The starting price for the product Fata cu cercel de perla is 2.0.
+Dinero Tengo has offered 101.0 at the set 1 of the auction.
+Lian Spayne has offered 43.0 at the set 1 of the auction.
+The product Fata cu cercel de perla has, at the end of step 1 of the auction, the price 101.0.
+Dinero Tengo has offered 101.0 at the set 2 of the auction.
+Lian Spayne has offered 224.0 at the set 2 of the auction.
+The product Fata cu cercel de perla has, at the end of step 2 of the auction, the price 224.0.
+Dinero Tengo has offered 101.0 at the set 3 of the auction.
+Lian Spayne has offered 224.0 at the set 3 of the auction.
+The product Fata cu cercel de perla has, at the end of step 3 of the auction, the price 224.0.
+Dinero Tengo has offered 101.0 at the set 4 of the auction.
+Lian Spayne has offered 224.0 at the set 4 of the auction.
+The product Fata cu cercel de perla has, at the end of step 4 of the auction, the price 224.0.
+Dinero Tengo has offered 101.0 at the set 5 of the auction.
+Lian Spayne has offered 224.0 at the set 5 of the auction.
+The product Fata cu cercel de perla has, at the end of step 5 of the auction, the price 224.0.
+Dinero Tengo has offered 101.0 at the set 6 of the auction.
+Lian Spayne has offered 224.0 at the set 6 of the auction.
+The product Fata cu cercel de perla has, at the end of step 6 of the auction, the price 224.0.
+Dinero Tengo has offered 101.0 at the set 7 of the auction.
+Lian Spayne has offered 224.0 at the set 7 of the auction.
+The product Fata cu cercel de perla has, at the end of step 7 of the auction, the price 224.0.
+Dinero Tengo has offered 101.0 at the set 8 of the auction.
+Lian Spayne has offered 224.0 at the set 8 of the auction.
+The product Fata cu cercel de perla has, at the end of step 8 of the auction, the price 224.0.
+Dinero Tengo has offered 101.0 at the set 9 of the auction.
+Lian Spayne has offered 224.0 at the set 9 of the auction.
+The product Fata cu cercel de perla has, at the end of step 9 of the auction, the price 224.0.
+Dinero Tengo has offered 101.0 at the set 10 of the auction.
+Lian Spayne has offered 224.0 at the set 10 of the auction.
+The product Fata cu cercel de perla has, at the end of step 10 of the auction, the price 224.0.
+Dinero Tengo has offered 101.0 at the set 11 of the auction.
+Lian Spayne has offered 224.0 at the set 11 of the auction.
+The product Fata cu cercel de perla has, at the end of step 11 of the auction, the price 224.0.
+The product Fata cu cercel de perla has been sold for 224.0.
+Dinero Tengo has signed up for the auction of the product necklace.
+3/3 people have signed up for the auction of the product necklace.
+The auction for the product necklace will start now.
+The starting price for the product necklace is 4.0.
+Louis Tomlinson has offered 46.0 at the set 1 of the auction.
+Lian Spayne has offered 93.0 at the set 1 of the auction.
+Dinero Tengo has offered 56.0 at the set 1 of the auction.
+The product necklace has, at the end of step 1 of the auction, the price 93.0.
+Louis Tomlinson has offered 128.0 at the set 2 of the auction.
+Lian Spayne has offered 93.0 at the set 2 of the auction.
+Dinero Tengo has offered 123.0 at the set 2 of the auction.
+The product necklace has, at the end of step 2 of the auction, the price 128.0.
+Louis Tomlinson has offered 128.0 at the set 3 of the auction.
+Lian Spayne has offered 137.0 at the set 3 of the auction.
+Dinero Tengo has offered 136.0 at the set 3 of the auction.
+The product necklace has, at the end of step 3 of the auction, the price 137.0.
+Louis Tomlinson has offered 138.0 at the set 4 of the auction.
+Lian Spayne has offered 137.0 at the set 4 of the auction.
+Dinero Tengo has offered 146.0 at the set 4 of the auction.
+The product necklace has, at the end of step 4 of the auction, the price 146.0.
+Louis Tomlinson has offered 138.0 at the set 5 of the auction.
+Lian Spayne has offered 137.0 at the set 5 of the auction.
+Dinero Tengo has offered 146.0 at the set 5 of the auction.
+The product necklace has, at the end of step 5 of the auction, the price 146.0.
+Louis Tomlinson has offered 138.0 at the set 6 of the auction.
+Lian Spayne has offered 137.0 at the set 6 of the auction.
+Dinero Tengo has offered 146.0 at the set 6 of the auction.
+The product necklace has, at the end of step 6 of the auction, the price 146.0.
+Louis Tomlinson has offered 138.0 at the set 7 of the auction.
+Lian Spayne has offered 137.0 at the set 7 of the auction.
+Dinero Tengo has offered 146.0 at the set 7 of the auction.
+The product necklace has, at the end of step 7 of the auction, the price 146.0.
+Louis Tomlinson has offered 138.0 at the set 8 of the auction.
+Lian Spayne has offered 137.0 at the set 8 of the auction.
+Dinero Tengo has offered 146.0 at the set 8 of the auction.
+The product necklace has, at the end of step 8 of the auction, the price 146.0.
+Louis Tomlinson has offered 138.0 at the set 9 of the auction.
+Lian Spayne has offered 137.0 at the set 9 of the auction.
+Dinero Tengo has offered 146.0 at the set 9 of the auction.
+The product necklace has, at the end of step 9 of the auction, the price 146.0.
+The product necklace has been sold for 146.0.

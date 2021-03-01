@@ -1,0 +1,110 @@
+Blaga Ana-Maria-Andreea, 324CB
+
+Cateva detalii legate de implementarea mea...
+
+- Pentru a realiza Multithreading-ul am creat clasele RunnableAdmin, RunnableBroker si RunnableClient care
+implementeaza interfata Runnable si am implementat metoda run pentru fiecare dintre cele trei pentru a adauga produse
+in lista de produse scoase la licitatie din Casa de Licitatii (RunnableAdmin), pentru a sterge un produs din aceasta
+lista dupa ce acesta a fost vandut in urma unei licitatii (RunnableBroker) si respectiv pentru a vizualiza aceasta
+lista (RunnableClient).
+
+- Design pattern-urile pe are am ales sa le implementez sunt:
+
+    ~> Singleton in Casa de Licitatii (AuctionHouse) deoarece in cerinta se specifica faptul ca se lucreaza cu o
+    singura casa de licitatii. Astfel avem in clasa AuctionHouse campul instanceOfAuctionHouse care este null in cazul
+    in care nu a fost instantiata inca o casa de licitatii, iar dupa instantiere este setat catre aceasta. Constructorul
+    are modificatorul de acces private (fiind vizibil doar la nivelul clasei), instantierea realizandu-se cu metoda
+    getInstance().
+
+    ~> Observer in Broker deoarece am observat ca acesta trebuie sa-si anunte clientii in legatura cu modificarile de
+    pret pentru care acestia liciteaza si sa le solicite o noua suma pe care sa o trimita apoi catre clasa de licitatii.
+    Astfel, fiecare broker este "an observable", iar clientii fiecaruia sunt "the observers". De asemenea la finalul
+    licitatie acestia isi anunta clientii daca au castigat/pierdut licitatia sau daca acesta s-a finalizat fara
+    vanzarea produsului printr-o "metoda supraincarcata":
+        public double getAuctionResult(String message, double brokerFee)
+        public void getAuctionResult(String message)
+
+    ~> Builder in Product (un Builder Generic chiar) pentru a crea produse complexe intr-un mod flexibil si usor de
+    inteles. Builderul din clasa parinte (Product) este extins de builderii din clase copil (Painting, Jewelry si
+    Furniture). Astfel este creata fiecare parte a produslui, iar apoi acestea sunt unite in produsul final.
+
+    ~> Factory pentru Product (ProductFactory) pentru a putea crea diferite tipuri de produse (Painting, Jewelry si
+    Furniture) care au acelasi parinte (Product). Metoda createProduct din clasa ProductFactory returneaza un produs
+    creat potrivit unor specificatii fara a-i specifica tipul (returneaza un obiect de tip Product, acesta putand fi
+    fie Furniture, fie Jewelry, fie Painting).
+
+- Genericitatea am folosit-o atat la Builderii produselor (Product, Painting, Jewelry, Furniture), dar de asemenea am
+creat clasa Pair (similara cu cea din Tema 2 din biblioteca externa Apache) care are drept campuri 2 elemente de tip
+generic, putand stoca orice fel de pereche de 2 elemente (eu am folosit-o pentru a pastra perechile (Licitatie, Oferta)
+ale clientilor care participa la licitatii.
+
+-Am creat urmatoarele clase:
+
+    In "AuctionSystem":
+    ~> Auction : clasa care implementeaza comportamentul unei licitatii. Aceasta este caracterizata prin id, numar
+    minim de participanti, numar curent de participanti, id-ul produsului scos la licitatie si numarul de pasi in care
+    se realizeaza licitatia.
+
+    ~> AuctionHouse : clasa care implementeaza comportamentul unei case de licitatii. Aceasta este caracterizata
+    printr-o lista de produse, lista de brokeri, lista de licitatii active/incheiate si lista de clienti.
+    Administratorul (Admin) adauga produse in lista de produse scoase la licitatie, Brokerii (Broker) sterg produsele
+    cand acestea sunt vandute, iar Clientii (Client) se intereseaza de ce produse exista la licitatie. Clientii trimit
+    cereri de inscriere in sistemul casei de licitatii, apoi de inscriere la licitatii. Li se atribuie un broker cu
+    care vor comunica pe parcursul licitatiei. Licitatia incepe cand se atinge numarul minim de participanti necesar.
+    La fiecare pas al licitatiei Brokerii solicita Clientilor sai noile oferte pentru produsul respectiv tinand cont de
+    pretul produsului la acel pas al licitatiei. La finalul fiecarui pas pretul se updateaza cu cea mai buna oferta
+    oefrita de clienti. La finalul licitatiei toti clientii sunt anunatati de brokeri de rezultatul obtinut:
+    castig/pierdere/nimic (produsul nu a fost vandut).
+
+    ~> AuctionHouseService : clasa care functioneaza ca un server unde ajung toate cererile realizate catre sistemul
+    de licitatii online si care sunt ulterior transformate in actiuni.
+
+    ~> Main : clasa in care "se poneste" AuctionHouseService si se citeste inputul (comenzile/cererile) pentru acesta.
+
+    ~> Offer : clasa care stocheaza pretul maxim pe care un client il poate oferi pentru un produs in cadrul unei
+    licitatii si pretul curent pe care il ofera pentru acesta.
+
+    In "DataStructures":
+    ~> Pair : clasa similara cu cea din Tema 2 din biblioteca externa Apache. Are drept campuri 2 elemente de tip
+    generic, putand stoca orice fel de pereche de 2 elemente.
+
+    In "Enums":
+    ~> Colors : enum care contine tipurile de vopsea folosite pentru pictarea tablourilor ce sunt scoase la licitatie.
+
+    ~> Company : enum care contine tipurile de firme pe care le poate detine o persoana juridica (LegalPerson).
+
+    In "People":
+    ~> Employee : clasa care implementeaza comportamentul unui angajat al unei case de licitatii. El poate sa fie:
+        - Admin : clasa care implementeaza comportamentul unui administrator al unei clase de licitatii. Acesta adauga
+        produse in casa de licitatii.
+
+        - Broker : clasa care implementeaza comportamentul unui broker angajat de catre o casa de licitatii. Acesta are
+         o lista de clienti pentru care intermediaza comunicarea cu casa de licitatii. El cere o noua oferta din partea
+         clientilor la fiecare pas al licitatiei tinand cont de pretul actual al produsului. De asemenea el sterge
+         produsele vandute in cadrul licitatiilor din lista de produse a casei de licitatii si anunta clientii de
+         rezultatul pe care l-au obtinut la licitatie. Daca unul din clientii sai castiga o licitatie atunci brokerul
+         ii cere un comision din pretul platit pentru produs.
+
+    ~> Client : clasa care implementeaza comportamentul unui client al unei case de licitatii. Acesta trimite o cerere
+    de inscriere in cadrul sistemului de licitatii si apoi cere sa fie inscris la licitatii. El comunica cu casa de
+    licitatii doar la inscriere, restul comunicarii fiind intermediate de catre broker. Acestuia ii trimite ofertele
+    sale pentru produse la fiecare pas al licitatiilor. De asemenea el poate solicita casei de licitatii, pentru
+    vizualizare, o lista de produse. El poate sa fie de doua feluri:
+        - LegalPerson : persoana juridica : caracterizata printr-o companie si un capital social;
+        - NaturalPerson : persoana fizica : caracterizata printr-o zi de nastere.
+
+    In "PrintingFeature":
+    ~> ConsoleColors : clasa folosita pentru afisare in diferite culori.
+
+    In "Products":
+    ~> ProductFactory : clasa care implementeaza comportamentul unei fabrici de produse. Ea primeste cateva detalii
+    despre produs si creaza unul generic (de tip Produs) potrivit acestora.
+
+   ~> "Produs" : clasa care implementeaza comportamentul unui produs scos la licitatie intr-o casa de licitatii. Acesta
+   este caracterizat de id, de nume, anul de fabricatie, de pretul cu care a fost vandut la licitatie si de pretul
+   minim cu care poate fi vandut la licitatie. Acesta poate fi de trei feluri:
+        - Painting : tablou : caracterizat prin pictorul care l-a pictat si tipul de acuarele pe care l-a folosit
+        pentru acesta;
+        - Jewelry: bijuterie : caracterizata prin materialul din care este cofectionata si daca are sau nu o piatra
+        pretioasa;
+        - Furniture : mobila : caracterizara prin materialul din care este confectionata si tipul de mobila.

@@ -1,0 +1,40 @@
+addClient NaturalPerson "Niall Horan" NiallHoran509572253@gmail.com 06/08/1971
+addClient LegalPerson "Fallon Carrington" FallonCarrington-1684997438@gmail.com SA 43734.12
+addClient NaturalPerson "Dani Wow" danutu-1083099313@gmail.com 09/11/1974
+addClient LegalPerson "Liam Payne" LiamPayne-1191302711@gmail.com SRL 80770.17
+addProduct Painting "Vrajitoarea" 1754 74.99 "Horia Bernea" acrylic 3 2
+addProduct Jewelry "tiara" 1643 38.91 "steel" false 10 2
+addProduct Furniture "French style" 1723 10.33 "bed" pine 3 3
+addProduct Furniture "Wow" 1724 33.93 "wardrobe" ash 7 2
+addProduct Furniture "French style" 1281 96.36 "wardrobe" ash 11 2
+addProduct Painting "Disney World" 1082 14.83 "Fallon Carrington" oil 10 4
+addProduct Furniture "Exclusive" 1964 42.07 "table" mahogany 12 4
+addProduct Painting "Vrajitoarea" 1252 24.78 "Fallon Carrington" acrylic 5 3
+addProduct Furniture "French style" 1543 37.91 "chair" ash 5 5
+addProduct Jewelry "necklace" 1711 52.19 "steel" false 11 6
+addProduct Painting "Me Gusta" 1987 90.09 "Washington Allston" tempera 10 6
+addClient NaturalPerson "Neil Armstrong" NeilArmstrong1355766260@gmail.com 26/08/1971
+addClient LegalPerson "Bethany Mota" BethanyMota222867155@gmail.com SRL 27903.6916448932
+addClient NaturalPerson "Harry Styles" HarryStyles-161663073@gmail.com 08/07/1973
+addBrokers 13
+listProducts 2
+requestSignUpForAuction 2 8 50.00
+requestSignUpForAuction 3 8 55.00
+addProduct Jewelry "bracelet" 1160 56.29 "copper" true 11 2
+addProduct Painting "Nunta in cer" 1879 53.97 "Ariana Grande" acrylic 13 6
+addProduct Painting "Astronomul" 1607 87.08 "Josef Albers" oil 18 7
+addProduct Painting "Infernul lui Dante" 1321 45.12 "Andreea Blaga" acrylic 21 10
+addProduct Jewelry "bracelet" 1881 47.27 "silver" true 19 3
+requestSignUpForAuction 1 8 60.00
+requestSignUpForAuction 2 12 130.00
+requestSignUpForAuction 3 12 140.00
+addProduct Furniture "Rare" 1258 12.84 "chair" maple 10 2
+addProduct Furniture "Romanian" 1176 79.22 "tv" birch 12 4
+addProduct Painting "Fata cu cercel de perla" 1704 50.45 "Ariana Grande" oil 11 2
+addProduct Furniture "Wow" 1072 93.88 "desk" oak 10 3
+requestSignUpForAuction 2 20 200.00
+requestSignUpForAuction 2 19 225.00
+requestSignUpForAuction 1 17 150.00
+requestSignUpForAuction 4 20 205.00
+requestSignUpForAuction 5 17 160.00
+requestSignUpForAuction 3 19 210.00

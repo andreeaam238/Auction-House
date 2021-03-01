@@ -1,0 +1,246 @@
+Welcome to the Online Auction House!
+The admin has connected.
+The product Noapte instelata with the ID 1 can be bought in the auction with the ID 1.
+The product Romanian with the ID 2 can be bought in the auction with the ID 2.
+The product earrings with the ID 3 can be bought in the auction with the ID 3.
+The product tiara with the ID 4 can be bought in the auction with the ID 4.
+The product Scribul with the ID 5 can be bought in the auction with the ID 5.
+The product Monalisa with the ID 6 can be bought in the auction with the ID 6.
+The product Exclusive with the ID 7 can be bought in the auction with the ID 7.
+The product tiara with the ID 8 can be bought in the auction with the ID 8.
+The product Wow with the ID 9 can be bought in the auction with the ID 9.
+The product earrings with the ID 10 can be bought in the auction with the ID 10.
+The product earrings with the ID 11 can be bought in the auction with the ID 11.
+The product necklace with the ID 12 can be bought in the auction with the ID 12.
+The product tiara with the ID 13 can be bought in the auction with the ID 13.
+The product bracelet with the ID 14 can be bought in the auction with the ID 14.
+The product ring with the ID 15 can be bought in the auction with the ID 15.
+The product Monalisa with the ID 16 can be bought in the auction with the ID 16.
+5 new brokers have been employed by the auction house.
+Liam Payne has joined the online auction system with the client ID 1.
+Harry Styles has joined the online auction system with the client ID 2.
+Liam Swayne has joined the online auction system with the client ID 3.
+Louis Tomlinson has joined the online auction system with the client ID 4.
+Dua Lipa has joined the online auction system with the client ID 5.
+Albert Beto has joined the online auction system with the client ID 6.
+Request for listing the products available for sale from the client Liam Payne with the ID 1:
+The painting Noapte instelata with the ID 1 was painted by Ariana Grande with tempera in 1660 and has the minimum selling price 60.89.
+The furniture Romanian with the ID 2 is a/an bed made of pine in 1416 and has the minimum selling price 40.1.
+The jewelry earrings without gemstone and with the ID 3, is made of copper in 1184 and has the minimum selling price 43.44.
+The jewelry tiara with gemstone and and with ID 4 is made of gold in 1567 and has the minimum selling price 94.2.
+The painting Scribul with the ID 5 was painted by Max Beckmann with acrylic in 1630 and has the minimum selling price 45.79.
+The painting Monalisa with the ID 6 was painted by Mickey Mouse with acrylic in 1528 and has the minimum selling price 43.68.
+The furniture Exclusive with the ID 7 is a/an tv made of pine in 1913 and has the minimum selling price 0.17.
+The jewelry tiara without gemstone and with the ID 8, is made of copper in 1779 and has the minimum selling price 62.91.
+The furniture Wow with the ID 9 is a/an tv made of ash in 1469 and has the minimum selling price 14.39.
+The jewelry earrings without gemstone and with the ID 10, is made of copper in 1155 and has the minimum selling price 67.49.
+The jewelry earrings without gemstone and with the ID 11, is made of silver in 1254 and has the minimum selling price 47.77.
+The jewelry necklace with gemstone and and with ID 12 is made of silver in 1218 and has the minimum selling price 45.77.
+The jewelry tiara with gemstone and and with ID 13 is made of steel in 1064 and has the minimum selling price 74.42.
+The jewelry bracelet without gemstone and with the ID 14, is made of copper in 1238 and has the minimum selling price 10.04.
+The jewelry ring with gemstone and and with ID 15 is made of silver in 1288 and has the minimum selling price 82.29.
+The painting Monalisa with the ID 16 was painted by Washington Allston with tempera in 1957 and has the minimum selling price 89.03.
+The product Hairbrush with the ID 17 can be bought in the auction with the ID 17.
+The product Luke Skywalker with the ID 18 can be bought in the auction with the ID 18.
+The product Dancers with the ID 19 can be bought in the auction with the ID 19.
+The product Starry Night with the ID 20 can be bought in the auction with the ID 20.
+Harry Styles has signed up for the auction of the product Hairbrush.
+1/2 people have signed up for the auction of the product Hairbrush.
+Liam Swayne has signed up for the auction of the product Hairbrush.
+2/2 people have signed up for the auction of the product Hairbrush.
+The auction for the product Hairbrush will start now.
+The starting price for the product Hairbrush is 1.0.
+Harry Styles has offered 10.0 at the set 1 of the auction.
+Liam Swayne has offered 22.0 at the set 1 of the auction.
+The product Hairbrush has, at the end of step 1 of the auction, the price 22.0.
+Harry Styles has offered 35.0 at the set 2 of the auction.
+Liam Swayne has offered 22.0 at the set 2 of the auction.
+The product Hairbrush has, at the end of step 2 of the auction, the price 35.0.
+Harry Styles has offered 35.0 at the set 3 of the auction.
+Liam Swayne has offered 51.0 at the set 3 of the auction.
+The product Hairbrush has, at the end of step 3 of the auction, the price 51.0.
+Harry Styles has offered 35.0 at the set 4 of the auction.
+Liam Swayne has offered 51.0 at the set 4 of the auction.
+The product Hairbrush has, at the end of step 4 of the auction, the price 51.0.
+Harry Styles has offered 35.0 at the set 5 of the auction.
+Liam Swayne has offered 51.0 at the set 5 of the auction.
+The product Hairbrush has, at the end of step 5 of the auction, the price 51.0.
+Harry Styles has offered 35.0 at the set 6 of the auction.
+Liam Swayne has offered 51.0 at the set 6 of the auction.
+The product Hairbrush has, at the end of step 6 of the auction, the price 51.0.
+Harry Styles has offered 35.0 at the set 7 of the auction.
+Liam Swayne has offered 51.0 at the set 7 of the auction.
+The product Hairbrush has, at the end of step 7 of the auction, the price 51.0.
+Harry Styles has offered 35.0 at the set 8 of the auction.
+Liam Swayne has offered 51.0 at the set 8 of the auction.
+The product Hairbrush has, at the end of step 8 of the auction, the price 51.0.
+Harry Styles has offered 35.0 at the set 9 of the auction.
+Liam Swayne has offered 51.0 at the set 9 of the auction.
+The product Hairbrush has, at the end of step 9 of the auction, the price 51.0.
+Harry Styles has offered 35.0 at the set 10 of the auction.
+Liam Swayne has offered 51.0 at the set 10 of the auction.
+The product Hairbrush has, at the end of step 10 of the auction, the price 51.0.
+Harry Styles has offered 35.0 at the set 11 of the auction.
+Liam Swayne has offered 51.0 at the set 11 of the auction.
+The product Hairbrush has, at the end of step 11 of the auction, the price 51.0.
+Harry Styles has offered 35.0 at the set 12 of the auction.
+Liam Swayne has offered 51.0 at the set 12 of the auction.
+The product Hairbrush has, at the end of step 12 of the auction, the price 51.0.
+The product Hairbrush has been sold for 51.0.
+Liam Payne has signed up for the auction of the product Wow.
+1/2 people have signed up for the auction of the product Wow.
+The product Carul cu boi with the ID 21 can be bought in the auction with the ID 21.
+The product Vacanta mare with the ID 22 can be bought in the auction with the ID 22.
+Harry Styles has signed up for the auction of the product Noapte instelata.
+1/2 people have signed up for the auction of the product Noapte instelata.
+Liam Swayne has signed up for the auction of the product Noapte instelata.
+2/2 people have signed up for the auction of the product Noapte instelata.
+The auction for the product Noapte instelata will start now.
+The starting price for the product Noapte instelata is 15.0.
+Harry Styles has offered 72.0 at the set 1 of the auction.
+Liam Swayne has offered 79.0 at the set 1 of the auction.
+The product Noapte instelata has, at the end of step 1 of the auction, the price 79.0.
+Harry Styles has offered 84.0 at the set 2 of the auction.
+Liam Swayne has offered 79.0 at the set 2 of the auction.
+The product Noapte instelata has, at the end of step 2 of the auction, the price 84.0.
+Harry Styles has offered 84.0 at the set 3 of the auction.
+Liam Swayne has offered 95.0 at the set 3 of the auction.
+The product Noapte instelata has, at the end of step 3 of the auction, the price 95.0.
+Harry Styles has offered 84.0 at the set 4 of the auction.
+Liam Swayne has offered 95.0 at the set 4 of the auction.
+The product Noapte instelata has, at the end of step 4 of the auction, the price 95.0.
+Harry Styles has offered 84.0 at the set 5 of the auction.
+Liam Swayne has offered 95.0 at the set 5 of the auction.
+The product Noapte instelata has, at the end of step 5 of the auction, the price 95.0.
+Harry Styles has offered 84.0 at the set 6 of the auction.
+Liam Swayne has offered 95.0 at the set 6 of the auction.
+The product Noapte instelata has, at the end of step 6 of the auction, the price 95.0.
+Harry Styles has offered 84.0 at the set 7 of the auction.
+Liam Swayne has offered 95.0 at the set 7 of the auction.
+The product Noapte instelata has, at the end of step 7 of the auction, the price 95.0.
+Harry Styles has offered 84.0 at the set 8 of the auction.
+Liam Swayne has offered 95.0 at the set 8 of the auction.
+The product Noapte instelata has, at the end of step 8 of the auction, the price 95.0.
+Harry Styles has offered 84.0 at the set 9 of the auction.
+Liam Swayne has offered 95.0 at the set 9 of the auction.
+The product Noapte instelata has, at the end of step 9 of the auction, the price 95.0.
+Harry Styles has offered 84.0 at the set 10 of the auction.
+Liam Swayne has offered 95.0 at the set 10 of the auction.
+The product Noapte instelata has, at the end of step 10 of the auction, the price 95.0.
+The product Noapte instelata has been sold for 95.0.
+The product Such Wow Desk with the ID 23 can be bought in the auction with the ID 23.
+The product earrings with the ID 24 can be bought in the auction with the ID 24.
+Liam Payne has signed up for the auction of the product Monalisa.
+1/2 people have signed up for the auction of the product Monalisa.
+Dua Lipa has signed up for the auction of the product Wow.
+2/2 people have signed up for the auction of the product Wow.
+The auction for the product Wow will start now.
+The starting price for the product Wow is 2.0.
+Liam Payne has offered 86.0 at the set 1 of the auction.
+Dua Lipa has offered 68.0 at the set 1 of the auction.
+The product Wow has, at the end of step 1 of the auction, the price 86.0.
+Liam Payne has offered 86.0 at the set 2 of the auction.
+Dua Lipa has offered 132.0 at the set 2 of the auction.
+The product Wow has, at the end of step 2 of the auction, the price 132.0.
+Liam Payne has offered 86.0 at the set 3 of the auction.
+Dua Lipa has offered 132.0 at the set 3 of the auction.
+The product Wow has, at the end of step 3 of the auction, the price 132.0.
+Liam Payne has offered 86.0 at the set 4 of the auction.
+Dua Lipa has offered 132.0 at the set 4 of the auction.
+The product Wow has, at the end of step 4 of the auction, the price 132.0.
+Liam Payne has offered 86.0 at the set 5 of the auction.
+Dua Lipa has offered 132.0 at the set 5 of the auction.
+The product Wow has, at the end of step 5 of the auction, the price 132.0.
+Liam Payne has offered 86.0 at the set 6 of the auction.
+Dua Lipa has offered 132.0 at the set 6 of the auction.
+The product Wow has, at the end of step 6 of the auction, the price 132.0.
+Liam Payne has offered 86.0 at the set 7 of the auction.
+Dua Lipa has offered 132.0 at the set 7 of the auction.
+The product Wow has, at the end of step 7 of the auction, the price 132.0.
+Liam Payne has offered 86.0 at the set 8 of the auction.
+Dua Lipa has offered 132.0 at the set 8 of the auction.
+The product Wow has, at the end of step 8 of the auction, the price 132.0.
+Liam Payne has offered 86.0 at the set 9 of the auction.
+Dua Lipa has offered 132.0 at the set 9 of the auction.
+The product Wow has, at the end of step 9 of the auction, the price 132.0.
+Liam Payne has offered 86.0 at the set 10 of the auction.
+Dua Lipa has offered 132.0 at the set 10 of the auction.
+The product Wow has, at the end of step 10 of the auction, the price 132.0.
+Liam Payne has offered 86.0 at the set 11 of the auction.
+Dua Lipa has offered 132.0 at the set 11 of the auction.
+The product Wow has, at the end of step 11 of the auction, the price 132.0.
+Liam Payne has offered 86.0 at the set 12 of the auction.
+Dua Lipa has offered 132.0 at the set 12 of the auction.
+The product Wow has, at the end of step 12 of the auction, the price 132.0.
+Liam Payne has offered 86.0 at the set 13 of the auction.
+Dua Lipa has offered 132.0 at the set 13 of the auction.
+The product Wow has, at the end of step 13 of the auction, the price 132.0.
+Liam Payne has offered 86.0 at the set 14 of the auction.
+Dua Lipa has offered 132.0 at the set 14 of the auction.
+The product Wow has, at the end of step 14 of the auction, the price 132.0.
+Liam Payne has offered 86.0 at the set 15 of the auction.
+Dua Lipa has offered 132.0 at the set 15 of the auction.
+The product Wow has, at the end of step 15 of the auction, the price 132.0.
+Liam Payne has offered 86.0 at the set 16 of the auction.
+Dua Lipa has offered 132.0 at the set 16 of the auction.
+The product Wow has, at the end of step 16 of the auction, the price 132.0.
+Liam Payne has offered 86.0 at the set 17 of the auction.
+Dua Lipa has offered 132.0 at the set 17 of the auction.
+The product Wow has, at the end of step 17 of the auction, the price 132.0.
+Liam Payne has offered 86.0 at the set 18 of the auction.
+Dua Lipa has offered 132.0 at the set 18 of the auction.
+The product Wow has, at the end of step 18 of the auction, the price 132.0.
+Liam Payne has offered 86.0 at the set 19 of the auction.
+Dua Lipa has offered 132.0 at the set 19 of the auction.
+The product Wow has, at the end of step 19 of the auction, the price 132.0.
+Liam Payne has offered 86.0 at the set 20 of the auction.
+Dua Lipa has offered 132.0 at the set 20 of the auction.
+The product Wow has, at the end of step 20 of the auction, the price 132.0.
+Liam Payne has offered 86.0 at the set 21 of the auction.
+Dua Lipa has offered 132.0 at the set 21 of the auction.
+The product Wow has, at the end of step 21 of the auction, the price 132.0.
+Liam Payne has offered 86.0 at the set 22 of the auction.
+Dua Lipa has offered 132.0 at the set 22 of the auction.
+The product Wow has, at the end of step 22 of the auction, the price 132.0.
+The product Wow has been sold for 132.0.
+Liam Swayne has signed up for the auction of the product Monalisa.
+2/2 people have signed up for the auction of the product Monalisa.
+The auction for the product Monalisa will start now.
+The starting price for the product Monalisa is 7.0.
+Liam Payne has offered 115.0 at the set 1 of the auction.
+Liam Swayne has offered 135.0 at the set 1 of the auction.
+The product Monalisa has, at the end of step 1 of the auction, the price 135.0.
+Liam Payne has offered 137.0 at the set 2 of the auction.
+Liam Swayne has offered 135.0 at the set 2 of the auction.
+The product Monalisa has, at the end of step 2 of the auction, the price 137.0.
+Liam Payne has offered 137.0 at the set 3 of the auction.
+Liam Swayne has offered 139.0 at the set 3 of the auction.
+The product Monalisa has, at the end of step 3 of the auction, the price 139.0.
+Liam Payne has offered 145.0 at the set 4 of the auction.
+Liam Swayne has offered 139.0 at the set 4 of the auction.
+The product Monalisa has, at the end of step 4 of the auction, the price 145.0.
+Liam Payne has offered 145.0 at the set 5 of the auction.
+Liam Swayne has offered 158.0 at the set 5 of the auction.
+The product Monalisa has, at the end of step 5 of the auction, the price 158.0.
+Liam Payne has offered 145.0 at the set 6 of the auction.
+Liam Swayne has offered 158.0 at the set 6 of the auction.
+The product Monalisa has, at the end of step 6 of the auction, the price 158.0.
+Liam Payne has offered 145.0 at the set 7 of the auction.
+Liam Swayne has offered 158.0 at the set 7 of the auction.
+The product Monalisa has, at the end of step 7 of the auction, the price 158.0.
+Liam Payne has offered 145.0 at the set 8 of the auction.
+Liam Swayne has offered 158.0 at the set 8 of the auction.
+The product Monalisa has, at the end of step 8 of the auction, the price 158.0.
+Liam Payne has offered 145.0 at the set 9 of the auction.
+Liam Swayne has offered 158.0 at the set 9 of the auction.
+The product Monalisa has, at the end of step 9 of the auction, the price 158.0.
+Liam Payne has offered 145.0 at the set 10 of the auction.
+Liam Swayne has offered 158.0 at the set 10 of the auction.
+The product Monalisa has, at the end of step 10 of the auction, the price 158.0.
+Liam Payne has offered 145.0 at the set 11 of the auction.
+Liam Swayne has offered 158.0 at the set 11 of the auction.
+The product Monalisa has, at the end of step 11 of the auction, the price 158.0.
+Liam Payne has offered 145.0 at the set 12 of the auction.
+Liam Swayne has offered 158.0 at the set 12 of the auction.
+The product Monalisa has, at the end of step 12 of the auction, the price 158.0.
+The product Monalisa has been sold for 158.0.
